@@ -1,0 +1,83 @@
+{
+  "source_file": "09_2026_QH16_703956.docx",
+  "document_id": "09/2026/QH16",
+  "title": "LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT THUẾ THU NHẬP CÁ NHÂN, LUẬT THUẾ GIÁ TRỊ GIA TĂNG, LUẬT THUẾ THU NHẬP DOANH NGHIỆP VÀ LUẬT THUẾ TIÊU THỤ ĐẶC BIỆT",
+  "document_type": "luat",
+  "legal_rank": 3,
+  "issued_date": "2026-04-24",
+  "effective_date": "2026-04-24",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "109/2025/QH15",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2026-01-01",
+      "status": "active"
+    },
+    {
+      "target_document_id": "48/2024/QH15",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2026-01-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "09/2026/QH16",
+      "dieu_khoan_sua": "Điều 1",
+      "van_ban_bi_sua": "109/2025/QH15",
+      "target_location": "Điều 7 > Khoản 1",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 7 > Khoản 1"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "1. Cá nhân cư trú có hoạt động sản xuất, kinh doanh có doanh thu năm từ mức quy định của Chính phủ trở xuống không phải nộp thuế thu nhập cá nhân. Căn cứ các chỉ số kinh tế vĩ mô, khả năng cân đối ngân sách, Chính phủ quy định mức doanh thu năm phù hợp với bối cảnh kinh tế - xã hội trong từng thời kỳ.",
+      "replacement_text": "1. Cá nhân cư trú có hoạt động sản xuất, kinh doanh có doanh thu năm từ mức quy định của Chính phủ trở xuống không phải nộp thuế thu nhập cá nhân. Căn cứ các chỉ số kinh tế vĩ mô, khả năng cân đối ngân sách, Chính phủ quy định mức doanh thu năm phù hợp với bối cảnh kinh tế - xã hội trong từng thời kỳ.",
+      "amendment_source_section": "## Điều 1. Sửa đổi, bổ sung khoản 1 Điều 7 của Luật Thuế thu nhập cá nhân\n“1. Cá nhân cư trú có hoạt động sản xuất, kinh doanh có doanh thu năm từ mức quy định của Chính phủ trở xuống không phải nộp thuế thu nhập cá nhân. Căn cứ các chỉ số kinh tế vĩ mô, khả năng cân đối ngân sách, Chính phủ quy định mức doanh thu năm phù hợp với bối cảnh kinh tế - xã hội trong từng thời kỳ.”.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "## Điều 1. Sửa đổi, bổ sung khoản 1 Điều 7 của Luật Thuế thu nhập cá nhân",
+      "status": "active",
+      "operation_id": "b2e664b3668fd9f5b78c8919268fc1474780634139c38ff77d7588e5306aba27"
+    },
+    {
+      "van_ban_sua": "09/2026/QH16",
+      "dieu_khoan_sua": "Điều 2",
+      "van_ban_bi_sua": "48/2024/QH15",
+      "target_location": "Điều 5 > Khoản 25",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 5 > Khoản 25"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "25. Hàng hóa, dịch vụ của hộ, cá nhân sản xuất, kinh doanh có doanh thu năm từ mức quy định của Chính phủ trở xuống; tài sản của tổ chức, cá nhân không kinh doanh, không phải là người nộp thuế giá trị gia tăng bán ra; hàng dự trữ quốc gia do cơ quan dự trữ quốc gia bán ra; các khoản thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí. Căn cứ các chỉ số kinh tế vĩ mô, khả năng cân đối ngân sách; Chính phủ quy định mức doanh thu năm tại khoản này phù hợp với bối cảnh kinh tế - xã hội trong từng thời kỳ.",
+      "replacement_text": "25. Hàng hóa, dịch vụ của hộ, cá nhân sản xuất, kinh doanh có doanh thu năm từ mức quy định của Chính phủ trở xuống; tài sản của tổ chức, cá nhân không kinh doanh, không phải là người nộp thuế giá trị gia tăng bán ra; hàng dự trữ quốc gia do cơ quan dự trữ quốc gia bán ra; các khoản thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí. Căn cứ các chỉ số kinh tế vĩ mô, khả năng cân đối ngân sách; Chính phủ quy định mức doanh thu năm tại khoản này phù hợp với bối cảnh kinh tế - xã hội trong từng thời kỳ.",
+      "amendment_source_section": "## Điều 2. Sửa đổi, bổ sung khoản 25 Điều 5 của Luật Thuế giá trị gia tăng\n“25. Hàng hóa, dịch vụ của hộ, cá nhân sản xuất, kinh doanh có doanh thu năm từ mức quy định của Chính phủ trở xuống; tài sản của tổ chức, cá nhân không kinh doanh, không phải là người nộp thuế giá trị gia tăng bán ra; hàng dự trữ quốc gia do cơ quan dự trữ quốc gia bán ra; các khoản thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí. Căn cứ các chỉ số kinh tế vĩ mô, khả năng cân đối ngân sách; Chính phủ quy định mức doanh thu năm tại khoản này phù hợp với bối cảnh kinh tế - xã hội trong từng thời kỳ.”.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "## Điều 2. Sửa đổi, bổ sung khoản 25 Điều 5 của Luật Thuế giá trị gia tăng",
+      "status": "active",
+      "operation_id": "4f31961a70e4b860f21144470efaa3c204700cbbf94644f5eabc2cdb54c43567"
+    }
+  ],
+  "embed_in_qdrant": false
+}

@@ -1,0 +1,29 @@
+{
+  "source_file": "253-2026-ND-CP.md",
+  "document_summary": "Văn bản: NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT THUẾ THU NHẬP CÁ NHÂN. Số hiệu: 253/2026/NĐ-CP.",
+  "document_metadata": {
+    "source_file": "253-2026-ND-CP.docx",
+    "document_id": "253/2026/NĐ-CP",
+    "title": "NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT THUẾ THU NHẬP CÁ NHÂN",
+    "document_type": "nghi_dinh",
+    "legal_rank": 2,
+    "issued_date": "2026-06-30",
+    "effective_date": "2026-07-01",
+    "expiration_date": null,
+    "status": "active",
+    "affects_documents": [
+      {
+        "target_document_id": "65/2013/NĐ-CP",
+        "relation_types": [
+          "thay_the"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2026-07-01",
+        "status": "active"
+      }
+    ],
+    "affected_by_documents": [],
+    "amendment_relations": [],
+    "embed_in_qdrant": true
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "source_file": "144_2026_ND-CP_694808.docx",
+  "document_id": "144/2026/NĐ-CP",
+  "title": "NGHỊ ĐỊNH",
+  "document_type": "nghi_dinh",
+  "legal_rank": 2,
+  "issued_date": "2026-05-05",
+  "effective_date": "2026-06-20",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "181/2025/NĐ-CP",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2026-06-20",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "144/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "181/2025/NĐ-CP",
+      "target_location": "Điều 4 > Khoản 3a",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 4 > Khoản 3a"
+      ],
+      "loai_thay_doi": "bo_sung",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "3a. Bảo hiểm nhân thọ, bảo hiểm sức khỏe, bảo hiểm người học, các dịch vụ bảo hiểm khác liên quan đến con người; bảo hiểm vật nuôi, bảo hiểm cây trồng, các dịch vụ bảo hiểm nông nghiệp khác; bảo hiểm tàu, thuyền, trang thiết bị và các dụng cụ cần thiết khác phục vụ trực tiếp đánh bắt thủy sản; tái bảo hiểm theo quy định của pháp luật về kinh doanh bảo hiểm; bảo hiểm các công trình, thiết bị dầu khí, tàu chứa dầu mang quốc tịch nước ngoài do nhà thầu dầu khí hoặc nhà thầu phụ nước ngoài thuê để hoạt động tại vùng biển Việt Nam, vùng biển chồng lấn mà Việt Nam và các quốc gia có bờ biển tiếp liền hay đối diện đã thỏa thuận đặt dưới chế độ khai thác chung.",
+      "replacement_text": "3a. Bảo hiểm nhân thọ, bảo hiểm sức khỏe, bảo hiểm người học, các dịch vụ bảo hiểm khác liên quan đến con người; bảo hiểm vật nuôi, bảo hiểm cây trồng, các dịch vụ bảo hiểm nông nghiệp khác; bảo hiểm tàu, thuyền, trang thiết bị và các dụng cụ cần thiết khác phục vụ trực tiếp đánh bắt thủy sản; tái bảo hiểm theo quy định của pháp luật về kinh doanh bảo hiểm; bảo hiểm các công trình, thiết bị dầu khí, tàu chứa dầu mang quốc tịch nước ngoài do nhà thầu dầu khí hoặc nhà thầu phụ nước ngoài thuê để hoạt động tại vùng biển Việt Nam, vùng biển chồng lấn mà Việt Nam và các quốc gia có bờ biển tiếp liền hay đối diện đã thỏa thuận đặt dưới chế độ khai thác chung.",
+      "amendment_source_section": "### Khoản 1. Bổ sung khoản 3a vào sau khoản 3 như sau:\n“3a. Bảo hiểm nhân thọ, bảo hiểm sức khỏe, bảo hiểm người học, các dịch vụ bảo hiểm khác liên quan đến con người; bảo hiểm vật nuôi, bảo hiểm cây trồng, các dịch vụ bảo hiểm nông nghiệp khác; bảo hiểm tàu, thuyền, trang thiết bị và các dụng cụ cần thiết khác phục vụ trực tiếp đánh bắt thủy sản; tái bảo hiểm theo quy định của pháp luật về kinh doanh bảo hiểm; bảo hiểm các công trình, thiết bị dầu khí, tàu chứa dầu mang quốc tịch nước ngoài do nhà thầu dầu khí hoặc nhà thầu phụ nước ngoài thuê để hoạt động tại vùng biển Việt Nam, vùng biển chồng lấn mà Việt Nam và các quốc gia có bờ biển tiếp liền hay đối diện đã thỏa thuận đặt dưới chế độ khai thác chung.”.",
+      "effective_date": "2026-06-20",
+      "can_cu_trich_doan": "### Khoản 1. Bổ sung khoản 3a vào sau khoản 3 như sau:",
+      "status": "active",
+      "operation_id": "23dc099b9704c52a785b28c9c44173a8ddacc5b615d39a90bfb119d22dd7eb71"
+    },
+    {
+      "van_ban_sua": "144/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 2",
+      "van_ban_bi_sua": "181/2025/NĐ-CP",
+      "target_location": "Điều 4 > Khoản 4 > Điểm đ",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 4 > Khoản 4 > Điểm đ"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "đ) Bán nợ bao gồm bán khoản phải trả và khoản phải thu, bán chứng chỉ tiền gửi",
+      "replacement_text": "đ) Bán nợ bao gồm bán khoản phải trả và khoản phải thu, bán chứng chỉ tiền gửi",
+      "amendment_source_section": "### Khoản 2. Sửa đổi, bổ sung điểm đ khoản 4 như sau:\n“đ) Bán nợ bao gồm bán khoản phải trả và khoản phải thu, bán chứng chỉ tiền gửi”.",
+      "effective_date": "2026-06-20",
+      "can_cu_trich_doan": "### Khoản 2. Sửa đổi, bổ sung điểm đ khoản 4 như sau:",
+      "status": "active",
+      "operation_id": "eb7dfc4a17c49270189adba4b18bb25015de5a734549301a9b2bf4c06d4eb1f3"
+    },
+    {
+      "van_ban_sua": "144/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 3",
+      "van_ban_bi_sua": "181/2025/NĐ-CP",
+      "target_location": "Điều 4 > Khoản 14",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 4 > Khoản 14"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "14. Sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác chưa chế biến thành sản phẩm khác và sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác đã chế biến thành sản phẩm khác theo định hướng của nhà nước về không khuyến khích xuất khẩu, hạn chế xuất khẩu các tài nguyên, khoáng sản thô được quy định tại Danh mục (Phụ lục I, Phụ lục II) ban hành kèm theo Nghị định này.\nTrong trường hợp cần thiết phải điều chỉnh sản phẩm xuất khẩu tại Danh mục (Phụ lục I, Phụ lục II) để phù hợp với bối cảnh kinh tế - xã hội, định hướng của nhà nước về không khuyến khích xuất khẩu, hạn chế xuất khẩu các tài nguyên, khoáng sản thô trong từng thời kỳ, Bộ Công Thương xác định và đề xuất điều chỉnh Danh mục gửi Bộ Tài chính chủ trì, nghiên cứu, phối hợp với các bộ, cơ quan liên quan báo cáo Chính phủ xem xét, quyết định.",
+      "replacement_text": "14. Sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác chưa chế biến thành sản phẩm khác và sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác đã chế biến thành sản phẩm khác theo định hướng của nhà nước về không khuyến khích xuất khẩu, hạn chế xuất khẩu các tài nguyên, khoáng sản thô được quy định tại Danh mục (Phụ lục I, Phụ lục II) ban hành kèm theo Nghị định này.\nTrong trường hợp cần thiết phải điều chỉnh sản phẩm xuất khẩu tại Danh mục (Phụ lục I, Phụ lục II) để phù hợp với bối cảnh kinh tế - xã hội, định hướng của nhà nước về không khuyến khích xuất khẩu, hạn chế xuất khẩu các tài nguyên, khoáng sản thô trong từng thời kỳ, Bộ Công Thương xác định và đề xuất điều chỉnh Danh mục gửi Bộ Tài chính chủ trì, nghiên cứu, phối hợp với các bộ, cơ quan liên quan báo cáo Chính phủ xem xét, quyết định.",
+      "amendment_source_section": "### Khoản 3. Sửa đổi, bổ sung khoản 14 như sau:\n“14. Sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác chưa chế biến thành sản phẩm khác và sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác đã chế biến thành sản phẩm khác theo định hướng của nhà nước về không khuyến khích xuất khẩu, hạn chế xuất khẩu các tài nguyên, khoáng sản thô được quy định tại Danh mục (Phụ lục I, Phụ lục II) ban hành kèm theo Nghị định này.\nTrong trường hợp cần thiết phải điều chỉnh sản phẩm xuất khẩu tại Danh mục (Phụ lục I, Phụ lục II) để phù hợp với bối cảnh kinh tế - xã hội, định hướng của nhà nước về không khuyến khích xuất khẩu, hạn chế xuất khẩu các tài nguyên, khoáng sản thô trong từng thời kỳ, Bộ Công Thương xác định và đề xuất điều chỉnh Danh mục gửi Bộ Tài chính chủ trì, nghiên cứu, phối hợp với các bộ, cơ quan liên quan báo cáo Chính phủ xem xét, quyết định.”.",
+      "effective_date": "2026-06-20",
+      "can_cu_trich_doan": "### Khoản 3. Sửa đổi, bổ sung khoản 14 như sau:",
+      "status": "active",
+      "operation_id": "0475a7c2438c480f021e7327a7e473a2dab34964cd305618df97ed19c69da0d1"
+    },
+    {
+      "van_ban_sua": "144/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 2",
+      "van_ban_bi_sua": "181/2025/NĐ-CP",
+      "target_location": "Điều 9 > Khoản 1 > Điểm b",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 9 > Khoản 1 > Điểm b"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "b) Doanh thu hàng hóa, dịch vụ và doanh thu hoa hồng đại lý được hưởng từ hoạt động đại lý bán hàng hóa, dịch vụ thuộc đối tượng không chịu thuế giá trị gia tăng; doanh thu hoa hồng môi giới dịch vụ bảo hiểm thuộc đối tượng không chịu thuế giá trị gia tăng.",
+      "replacement_text": "b) Doanh thu hàng hóa, dịch vụ và doanh thu hoa hồng đại lý được hưởng từ hoạt động đại lý bán hàng hóa, dịch vụ thuộc đối tượng không chịu thuế giá trị gia tăng; doanh thu hoa hồng môi giới dịch vụ bảo hiểm thuộc đối tượng không chịu thuế giá trị gia tăng.",
+      "amendment_source_section": "## Điều 2. Sửa đổi, bổ sung điểm b khoản 1 Điều 9\n“b) Doanh thu hàng hóa, dịch vụ và doanh thu hoa hồng đại lý được hưởng từ hoạt động đại lý bán hàng hóa, dịch vụ thuộc đối tượng không chịu thuế giá trị gia tăng; doanh thu hoa hồng môi giới dịch vụ bảo hiểm thuộc đối tượng không chịu thuế giá trị gia tăng.”.",
+      "effective_date": "2026-06-20",
+      "can_cu_trich_doan": "## Điều 2. Sửa đổi, bổ sung điểm b khoản 1 Điều 9",
+      "status": "active",
+      "operation_id": "de02476dd20b367ab590bed940b9f16704fe051aec5e3dfe493d4138bdd605ea"
+    },
+    {
+      "van_ban_sua": "144/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 3 > Khoản 1",
+      "van_ban_bi_sua": "181/2025/NĐ-CP",
+      "target_location": "Điều 23 > Khoản 2 > Điểm a",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 23 > Khoản 2 > Điểm a"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "a) Tổng doanh thu của hàng hóa, dịch vụ bán ra bao gồm doanh thu của hàng hóa, dịch vụ chịu thuế giá trị gia tăng; doanh thu của hàng hóa, dịch vụ không chịu thuế giá trị gia tăng; giá trị gia tăng của hoạt động mua, bán, chế tác vàng, bạc, đá quý (trừ trường hợp giá trị gia tăng âm (-)) và doanh thu của hàng hóa, dịch vụ quy định tại khoản 2 Điều 40 Nghị định này (nếu có).\nRiêng doanh thu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được xác định theo quy định của pháp luật về các tổ chức tín dụng; doanh thu của hoạt động về chứng khoán và thị trường chứng khoán được xác định theo quy định của pháp luật về chứng khoán; doanh thu của hoạt động kinh doanh bảo hiểm được xác định theo quy định của pháp luật về kinh doanh bảo hiểm",
+      "replacement_text": "a) Tổng doanh thu của hàng hóa, dịch vụ bán ra bao gồm doanh thu của hàng hóa, dịch vụ chịu thuế giá trị gia tăng; doanh thu của hàng hóa, dịch vụ không chịu thuế giá trị gia tăng; giá trị gia tăng của hoạt động mua, bán, chế tác vàng, bạc, đá quý (trừ trường hợp giá trị gia tăng âm (-)) và doanh thu của hàng hóa, dịch vụ quy định tại khoản 2 Điều 40 Nghị định này (nếu có).\nRiêng doanh thu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được xác định theo quy định của pháp luật về các tổ chức tín dụng; doanh thu của hoạt động về chứng khoán và thị trường chứng khoán được xác định theo quy định của pháp luật về chứng khoán; doanh thu của hoạt động kinh doanh bảo hiểm được xác định theo quy định của pháp luật về kinh doanh bảo hiểm",
+      "amendment_source_section": "### Khoản 1. Sửa đổi, bổ sung điểm a như sau:\n“a) Tổng doanh thu của hàng hóa, dịch vụ bán ra bao gồm doanh thu của hàng hóa, dịch vụ chịu thuế giá trị gia tăng; doanh thu của hàng hóa, dịch vụ không chịu thuế giá trị gia tăng; giá trị gia tăng của hoạt động mua, bán, chế tác vàng, bạc, đá quý (trừ trường hợp giá trị gia tăng âm (-)) và doanh thu của hàng hóa, dịch vụ quy định tại khoản 2 Điều 40 Nghị định này (nếu có).\nRiêng doanh thu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được xác định theo quy định của pháp luật về các tổ chức tín dụng; doanh thu của hoạt động về chứng khoán và thị trường chứng khoán được xác định theo quy định của pháp luật về chứng khoán; doanh thu của hoạt động kinh doanh bảo hiểm được xác định theo quy định của pháp luật về kinh doanh bảo hiểm”.",
+      "effective_date": "2026-06-20",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi, bổ sung điểm a như sau:",
+      "status": "active",
+      "operation_id": "5c85b267983ba0ec571be2fe6df6ab8c09f879284364a3f7b67c0adc1ad0dfd3"
+    },
+    {
+      "van_ban_sua": "144/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 3 > Khoản 2",
+      "van_ban_bi_sua": "181/2025/NĐ-CP",
+      "target_location": "Điều 23 > Khoản 2 > Điểm c",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 23 > Khoản 2 > Điểm c"
+      ],
+      "loai_thay_doi": "bo_sung",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "c) Doanh thu của hàng hóa, dịch vụ chịu thuế giá trị gia tăng quy định tại khoản này bao gồm cả doanh thu của hàng hóa không phải kê khai, tính nộp thuế giá trị gia tăng (nếu có) quy định tại khoản 1 Điều 5 Luật Thuế giá trị gia tăng số 48/2024/QH15 đã được sửa đổi, bổ sung bởi Luật số 149/2025/QH15.",
+      "replacement_text": "c) Doanh thu của hàng hóa, dịch vụ chịu thuế giá trị gia tăng quy định tại khoản này bao gồm cả doanh thu của hàng hóa không phải kê khai, tính nộp thuế giá trị gia tăng (nếu có) quy định tại khoản 1 Điều 5 Luật Thuế giá trị gia tăng số 48/2024/QH15 đã được sửa đổi, bổ sung bởi Luật số 149/2025/QH15.",
+      "amendment_source_section": "### Khoản 2. Bổ sung điểm c vào sau điểm b như sau:\n“c) Doanh thu của hàng hóa, dịch vụ chịu thuế giá trị gia tăng quy định tại khoản này bao gồm cả doanh thu của hàng hóa không phải kê khai, tính nộp thuế giá trị gia tăng (nếu có) quy định tại khoản 1 Điều 5 Luật Thuế giá trị gia tăng số 48/2024/QH15 đã được sửa đổi, bổ sung bởi Luật số 149/2025/QH15.”.",
+      "effective_date": "2026-06-20",
+      "can_cu_trich_doan": "### Khoản 2. Bổ sung điểm c vào sau điểm b như sau:",
+      "status": "active",
+      "operation_id": "2d29beea023d0cc6c78b3ff09875c3f0803acf7bbd22f4546e2c69816d77c143"
+    },
+    {
+      "van_ban_sua": "144/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 4",
+      "van_ban_bi_sua": "181/2025/NĐ-CP",
+      "target_location": "Điều 26 > Khoản 2 > Điểm g",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 26 > Khoản 2 > Điểm g"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "g) Đối với hàng hóa, dịch vụ mua trả chậm, trả góp có giá trị hàng hóa, dịch vụ mua từ 05 triệu đồng trở lên, cơ sở kinh doanh căn cứ vào hợp đồng mua hàng hóa, dịch vụ bằng văn bản, hóa đơn giá trị gia tăng và chứng từ thanh toán không dùng tiền mặt của hàng hóa, dịch vụ mua trả chậm, trả góp để khấu trừ thuế giá trị gia tăng đầu vào. Trường hợp chưa có chứng từ thanh toán không dùng tiền mặt do chưa đến thời điểm thanh toán theo hợp đồng, phụ lục hợp đồng thì cơ sở kinh doanh vẫn được khấu trừ thuế giá trị gia tăng đầu vào. Đến thời điểm thanh toán theo hợp đồng, phụ lục hợp đồng, cơ sở kinh doanh không có chứng từ thanh toán không dùng tiền mặt thì cơ sở kinh doanh phải kê khai, điều chỉnh giảm số thuế giá trị gia tăng đầu vào được khấu trừ đối với phần giá trị hàng hóa, dịch vụ không có chứng từ thanh toán không dùng tiền mặt vào kỳ tính thuế phát sinh nghĩa vụ thanh toán theo hợp đồng, phụ lục hợp đồng. Trường hợp sau khi điều chỉnh, cơ sở kinh doanh có chứng từ thanh toán không dùng tiền mặt thì cơ sở kinh doanh được kê khai, khấu trừ số thuế giá trị gia tăng đầu vào đối với phần giá trị hàng hóa, dịch vụ có chứng từ thanh toán không dùng tiền mặt vào kỳ tính thuế có chứng từ thanh toán không dùng tiền mặt.",
+      "replacement_text": "g) Đối với hàng hóa, dịch vụ mua trả chậm, trả góp có giá trị hàng hóa, dịch vụ mua từ 05 triệu đồng trở lên, cơ sở kinh doanh căn cứ vào hợp đồng mua hàng hóa, dịch vụ bằng văn bản, hóa đơn giá trị gia tăng và chứng từ thanh toán không dùng tiền mặt của hàng hóa, dịch vụ mua trả chậm, trả góp để khấu trừ thuế giá trị gia tăng đầu vào. Trường hợp chưa có chứng từ thanh toán không dùng tiền mặt do chưa đến thời điểm thanh toán theo hợp đồng, phụ lục hợp đồng thì cơ sở kinh doanh vẫn được khấu trừ thuế giá trị gia tăng đầu vào. Đến thời điểm thanh toán theo hợp đồng, phụ lục hợp đồng, cơ sở kinh doanh không có chứng từ thanh toán không dùng tiền mặt thì cơ sở kinh doanh phải kê khai, điều chỉnh giảm số thuế giá trị gia tăng đầu vào được khấu trừ đối với phần giá trị hàng hóa, dịch vụ không có chứng từ thanh toán không dùng tiền mặt vào kỳ tính thuế phát sinh nghĩa vụ thanh toán theo hợp đồng, phụ lục hợp đồng. Trường hợp sau khi điều chỉnh, cơ sở kinh doanh có chứng từ thanh toán không dùng tiền mặt thì cơ sở kinh doanh được kê khai, khấu trừ số thuế giá trị gia tăng đầu vào đối với phần giá trị hàng hóa, dịch vụ có chứng từ thanh toán không dùng tiền mặt vào kỳ tính thuế có chứng từ thanh toán không dùng tiền mặt.",
+      "amendment_source_section": "## Điều 4. Sửa đổi, bổ sung điểm g khoản 2 Điều 26\n“g) Đối với hàng hóa, dịch vụ mua trả chậm, trả góp có giá trị hàng hóa, dịch vụ mua từ 05 triệu đồng trở lên, cơ sở kinh doanh căn cứ vào hợp đồng mua hàng hóa, dịch vụ bằng văn bản, hóa đơn giá trị gia tăng và chứng từ thanh toán không dùng tiền mặt của hàng hóa, dịch vụ mua trả chậm, trả góp để khấu trừ thuế giá trị gia tăng đầu vào. Trường hợp chưa có chứng từ thanh toán không dùng tiền mặt do chưa đến thời điểm thanh toán theo hợp đồng, phụ lục hợp đồng thì cơ sở kinh doanh vẫn được khấu trừ thuế giá trị gia tăng đầu vào. Đến thời điểm thanh toán theo hợp đồng, phụ lục hợp đồng, cơ sở kinh doanh không có chứng từ thanh toán không dùng tiền mặt thì cơ sở kinh doanh phải kê khai, điều chỉnh giảm số thuế giá trị gia tăng đầu vào được khấu trừ đối với phần giá trị hàng hóa, dịch vụ không có chứng từ thanh toán không dùng tiền mặt vào kỳ tính thuế phát sinh nghĩa vụ thanh toán theo hợp đồng, phụ lục hợp đồng. Trường hợp sau khi điều chỉnh, cơ sở kinh doanh có chứng từ thanh toán không dùng tiền mặt thì cơ sở kinh doanh được kê khai, khấu trừ số thuế giá trị gia tăng đầu vào đối với phần giá trị hàng hóa, dịch vụ có chứng từ thanh toán không dùng tiền mặt vào kỳ tính thuế có chứng từ thanh toán không dùng tiền mặt.”.",
+      "effective_date": "2026-06-20",
+      "can_cu_trich_doan": "## Điều 4. Sửa đổi, bổ sung điểm g khoản 2 Điều 26",
+      "status": "active",
+      "operation_id": "f66c761bfcc424a068e298d2ab6db9665aff82229a33cc666033df6549b15ee4"
+    }
+  ],
+  "embed_in_qdrant": false
+}

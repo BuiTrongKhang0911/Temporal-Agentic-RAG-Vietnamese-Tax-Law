@@ -1,0 +1,47 @@
+{
+  "source_file": "04_2007_QH12_59652.md",
+  "document_summary": "[04/2007/QH12 | Hiệu lực: 2009-01-01] Luật Thuế thu nhập cá nhân quy định đối tượng, căn cứ tính thuế cho cá nhân cư trú và không cư trú với ngưỡng giảm trừ gia cảnh 4 triệu đồng/tháng, áp dụng biểu thuế lũy tiến từng phần đến 35%.",
+  "document_metadata": {
+    "source_file": "04_2007_QH12_59652.docx",
+    "document_id": "04/2007/QH12",
+    "title": "LUẬT THUẾ THU NHẬP CÁ NHÂN",
+    "document_type": "luat",
+    "legal_rank": 3,
+    "issued_date": "2007-11-21",
+    "effective_date": "2009-01-01",
+    "expiration_date": null,
+    "status": "active",
+    "affects_documents": [
+      {
+        "target_document_id": "35/2001/PL-UBTVQH10",
+        "relation_types": [
+          "bai_bo"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2009-01-01",
+        "status": "active"
+      },
+      {
+        "target_document_id": "35-L/CTN",
+        "relation_types": [
+          "bai_bo"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2009-01-01",
+        "status": "active"
+      },
+      {
+        "target_document_id": "09/2003/QH11",
+        "relation_types": [
+          "bai_bo"
+        ],
+        "impact_scope": "partial",
+        "effective_date": "2009-01-01",
+        "status": "active"
+      }
+    ],
+    "affected_by_documents": [],
+    "amendment_relations": [],
+    "embed_in_qdrant": true
+  }
+}

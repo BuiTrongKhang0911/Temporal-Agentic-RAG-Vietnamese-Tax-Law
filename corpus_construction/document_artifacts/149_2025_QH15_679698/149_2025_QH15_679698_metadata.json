@@ -1,0 +1,142 @@
+{
+  "source_file": "149_2025_QH15_679698.docx",
+  "document_id": "149/2025/QH15",
+  "title": "LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT THUẾ GIÁ TRỊ GIA TĂNG",
+  "document_type": "luat",
+  "legal_rank": 3,
+  "issued_date": "2025-12-11",
+  "effective_date": "2026-01-01",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "48/2024/QH15",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2026-01-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "149/2025/QH15",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "48/2024/QH15",
+      "target_location": "Điều 5 > Khoản 1",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 5 > Khoản 1"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "1. Sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường của tổ chức, cá nhân tự sản xuất, đánh bắt bán ra và ở khâu nhập khẩu.\nDoanh nghiệp, hợp tác xã, liên hiệp hợp tác xã mua sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường bán cho doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã khác thì không phải kê khai, tính nộp thuế giá trị gia tăng nhưng được khấu trừ thuế giá trị gia tăng đầu vào.",
+      "replacement_text": "1. Sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường của tổ chức, cá nhân tự sản xuất, đánh bắt bán ra và ở khâu nhập khẩu.\nDoanh nghiệp, hợp tác xã, liên hiệp hợp tác xã mua sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường bán cho doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã khác thì không phải kê khai, tính nộp thuế giá trị gia tăng nhưng được khấu trừ thuế giá trị gia tăng đầu vào.",
+      "amendment_source_section": "### Khoản 1. Sửa đổi, bổ sung một số khoản của Điều 5 như sau:\na) Sửa đổi, bổ sung khoản 1 như sau:\n“1. Sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường của tổ chức, cá nhân tự sản xuất, đánh bắt bán ra và ở khâu nhập khẩu.\nDoanh nghiệp, hợp tác xã, liên hiệp hợp tác xã mua sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường bán cho doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã khác thì không phải kê khai, tính nộp thuế giá trị gia tăng nhưng được khấu trừ thuế giá trị gia tăng đầu vào.”;\nb) Sửa đổi, bổ sung khoản 25 như sau:\n“25. Hàng hóa, dịch vụ của hộ, cá nhân sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống; tài sản của tổ chức, cá nhân không kinh doanh, không phải là người nộp thuế giá trị gia tăng bán ra; hàng dự trữ quốc gia do cơ quan dự trữ quốc gia bán ra; các khoản thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí.”.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi, bổ sung một số khoản của Điều 5 như sau:",
+      "status": "active",
+      "operation_id": "5ea98761561174b856ca4f66560a79ef0dfead96956996b80d6b915765e87d15"
+    },
+    {
+      "van_ban_sua": "149/2025/QH15",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "48/2024/QH15",
+      "target_location": "Điều 5 > Khoản 25",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 5 > Khoản 25"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "25. Hàng hóa, dịch vụ của hộ, cá nhân sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống; tài sản của tổ chức, cá nhân không kinh doanh, không phải là người nộp thuế giá trị gia tăng bán ra; hàng dự trữ quốc gia do cơ quan dự trữ quốc gia bán ra; các khoản thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí.",
+      "replacement_text": "25. Hàng hóa, dịch vụ của hộ, cá nhân sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống; tài sản của tổ chức, cá nhân không kinh doanh, không phải là người nộp thuế giá trị gia tăng bán ra; hàng dự trữ quốc gia do cơ quan dự trữ quốc gia bán ra; các khoản thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí.",
+      "amendment_source_section": "### Khoản 1. Sửa đổi, bổ sung một số khoản của Điều 5 như sau:\na) Sửa đổi, bổ sung khoản 1 như sau:\n“1. Sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường của tổ chức, cá nhân tự sản xuất, đánh bắt bán ra và ở khâu nhập khẩu.\nDoanh nghiệp, hợp tác xã, liên hiệp hợp tác xã mua sản phẩm cây trồng, rừng trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm khác hoặc chỉ qua sơ chế thông thường bán cho doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã khác thì không phải kê khai, tính nộp thuế giá trị gia tăng nhưng được khấu trừ thuế giá trị gia tăng đầu vào.”;\nb) Sửa đổi, bổ sung khoản 25 như sau:\n“25. Hàng hóa, dịch vụ của hộ, cá nhân sản xuất, kinh doanh có mức doanh thu năm từ 500 triệu đồng trở xuống; tài sản của tổ chức, cá nhân không kinh doanh, không phải là người nộp thuế giá trị gia tăng bán ra; hàng dự trữ quốc gia do cơ quan dự trữ quốc gia bán ra; các khoản thu phí, lệ phí theo quy định của pháp luật về phí và lệ phí.”.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi, bổ sung một số khoản của Điều 5 như sau:",
+      "status": "active",
+      "operation_id": "17f9c0b0489bd7fb5a0cda3c0c4ef6037f2629b2331368420124fa653e6774e7"
+    },
+    {
+      "van_ban_sua": "149/2025/QH15",
+      "dieu_khoan_sua": "Điều 1 > Khoản 2",
+      "van_ban_bi_sua": "48/2024/QH15",
+      "target_location": "Điều 9 > Khoản 5",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 9 > Khoản 5"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "5. Phế phẩm, phụ phẩm, phế liệu được thu hồi trong quá trình sản xuất thì áp dụng mức thuế suất của mặt hàng phế phẩm, phụ phẩm, phế liệu đó.",
+      "replacement_text": "5. Phế phẩm, phụ phẩm, phế liệu được thu hồi trong quá trình sản xuất thì áp dụng mức thuế suất của mặt hàng phế phẩm, phụ phẩm, phế liệu đó.",
+      "amendment_source_section": "### Khoản 2. Sửa đổi, bổ sung khoản 5 Điều 9 như sau:\n“5. Phế phẩm, phụ phẩm, phế liệu được thu hồi trong quá trình sản xuất thì áp dụng mức thuế suất của mặt hàng phế phẩm, phụ phẩm, phế liệu đó.”.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 2. Sửa đổi, bổ sung khoản 5 Điều 9 như sau:",
+      "status": "active",
+      "operation_id": "94954dd4724307c21a61aa41bad7c8a4463f44d8622a76ef2c980af88de80512"
+    },
+    {
+      "van_ban_sua": "149/2025/QH15",
+      "dieu_khoan_sua": "Điều 1 > Khoản 3",
+      "van_ban_bi_sua": "48/2024/QH15",
+      "target_location": "Điều 12 > Khoản 3",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 12 > Khoản 3"
+      ],
+      "loai_thay_doi": "bai_bo",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": null,
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 3. Bãi bỏ khoản 3 Điều 12 và điểm c khoản 9 Điều 15.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 3. Bãi bỏ khoản 3 Điều 12 và điểm c khoản 9 Điều 15.",
+      "status": "active",
+      "operation_id": "8ef94bf2991548ad82adc4feaebdb079f13badf547c9d07f7c2afc1758fc9cf6"
+    },
+    {
+      "van_ban_sua": "149/2025/QH15",
+      "dieu_khoan_sua": "Điều 1 > Khoản 3",
+      "van_ban_bi_sua": "48/2024/QH15",
+      "target_location": "Điều 15 > Khoản 9 > Điểm c",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 15 > Khoản 9 > Điểm c"
+      ],
+      "loai_thay_doi": "bai_bo",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": null,
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 3. Bãi bỏ khoản 3 Điều 12 và điểm c khoản 9 Điều 15.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 3. Bãi bỏ khoản 3 Điều 12 và điểm c khoản 9 Điều 15.",
+      "status": "active",
+      "operation_id": "964e5f2749dfd1e2d439485df5c2c81fd771720b3aa1fda4a82da871b848a4be"
+    }
+  ],
+  "embed_in_qdrant": false
+}

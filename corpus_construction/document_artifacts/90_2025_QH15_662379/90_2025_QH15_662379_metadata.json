@@ -1,0 +1,50 @@
+{
+  "source_file": "90_2025_QH15_662379.docx",
+  "document_id": "90/2025/QH15",
+  "title": "LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT ĐẤU THẦU, LUẬT ĐẦU TƯ THEO PHƯƠNG THỨC ĐỐI TÁC CÔNG TƯ, LUẬT HẢI QUAN, LUẬT THUẾ GIÁ TRỊ GIA TĂNG, LUẬT THUẾ XUẤT KHẨU, THUẾ NHẬP KHẨU, LUẬT ĐẦU TƯ, LUẬT ĐẦU TƯ CÔNG, LUẬT QUẢN LÝ, SỬ DỤNG TÀI SẢN CÔNG",
+  "document_type": "luat",
+  "legal_rank": 3,
+  "issued_date": "2025-06-25",
+  "effective_date": "2025-07-01",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "48/2024/QH15",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2025-07-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "90/2025/QH15",
+      "dieu_khoan_sua": "Điều 4",
+      "van_ban_bi_sua": "48/2024/QH15",
+      "target_location": "Điều 9 > Khoản 1 > Điểm a",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 9 > Khoản 1 > Điểm a"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "a) Hàng hóa xuất khẩu bao gồm: hàng hóa từ Việt Nam bán cho tổ chức, cá nhân ở nước ngoài và được tiêu dùng ở ngoài Việt Nam; hàng hóa từ nội địa Việt Nam bán cho tổ chức trong khu phi thuế quan và được tiêu dùng trong khu phi thuế quan phục vụ trực tiếp cho hoạt động sản xuất xuất khẩu; hàng hóa đã bán tại khu vực cách ly cho cá nhân (người nước ngoài hoặc người Việt Nam) đã làm thủ tục xuất cảnh; hàng hóa đã bán tại cửa hàng miễn thuế; hàng hóa xuất khẩu tại chỗ;",
+      "replacement_text": "a) Hàng hóa xuất khẩu bao gồm: hàng hóa từ Việt Nam bán cho tổ chức, cá nhân ở nước ngoài và được tiêu dùng ở ngoài Việt Nam; hàng hóa từ nội địa Việt Nam bán cho tổ chức trong khu phi thuế quan và được tiêu dùng trong khu phi thuế quan phục vụ trực tiếp cho hoạt động sản xuất xuất khẩu; hàng hóa đã bán tại khu vực cách ly cho cá nhân (người nước ngoài hoặc người Việt Nam) đã làm thủ tục xuất cảnh; hàng hóa đã bán tại cửa hàng miễn thuế; hàng hóa xuất khẩu tại chỗ;",
+      "amendment_source_section": "## Điều 4. Sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng\nSửa đổi, bổ sung điểm a khoản 1 Điều 9 như sau:\n“a) Hàng hóa xuất khẩu bao gồm: hàng hóa từ Việt Nam bán cho tổ chức, cá nhân ở nước ngoài và được tiêu dùng ở ngoài Việt Nam; hàng hóa từ nội địa Việt Nam bán cho tổ chức trong khu phi thuế quan và được tiêu dùng trong khu phi thuế quan phục vụ trực tiếp cho hoạt động sản xuất xuất khẩu; hàng hóa đã bán tại khu vực cách ly cho cá nhân (người nước ngoài hoặc người Việt Nam) đã làm thủ tục xuất cảnh; hàng hóa đã bán tại cửa hàng miễn thuế; hàng hóa xuất khẩu tại chỗ;”.",
+      "effective_date": "2025-07-01",
+      "can_cu_trich_doan": "## Điều 4. Sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng",
+      "status": "active",
+      "operation_id": "3583bb27b6cf752a49a47c738d5909e8ea81a991d5c0d1317cf47a2ab93dddb3"
+    }
+  ],
+  "embed_in_qdrant": false
+}

@@ -1,0 +1,95 @@
+{
+  "source_file": "93_2025_QH15_581164.docx",
+  "document_id": "93/2025/QH15",
+  "title": "LUẬT KHOA HỌC, CÔNG NGHỆ VÀ ĐỔI MỚI SÁNG TẠO",
+  "document_type": "luat",
+  "legal_rank": 3,
+  "issued_date": "2025-06-27",
+  "effective_date": "2025-10-01",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "04/2007/QH12",
+      "relation_types": [
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2025-10-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "93/2025/QH15",
+      "dieu_khoan_sua": "Điều 71 > Khoản 3",
+      "van_ban_bi_sua": "04/2007/QH12",
+      "target_location": "Điều 4 > Khoản 18",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 4 > Khoản 18"
+      ],
+      "loai_thay_doi": "bo_sung",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "18. Thu nhập từ tiền lương, tiền công từ thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.",
+      "replacement_text": "18. Thu nhập từ tiền lương, tiền công từ thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.",
+      "amendment_source_section": "### Khoản 3. Bổ sung các khoản 18, 19, 20 vào sau khoản 17 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 48/2024/QH15, Luật số 56/2024/QH15 và Luật số 71/2025/QH15 như sau:\n“18. Thu nhập từ tiền lương, tiền công từ thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.\n19. Thu nhập từ quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả nhiệm vụ được thương mại hóa theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về sở hữu trí tuệ.\n20. Thu nhập của nhà đầu tư cá nhân, chuyên gia làm việc cho dự án khởi nghiệp sáng tạo, sáng lập viên doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư cá nhân góp vốn vào quỹ đầu tư mạo hiểm.”.",
+      "effective_date": "2025-10-01",
+      "can_cu_trich_doan": "### Khoản 3. Bổ sung các khoản 18, 19, 20 vào sau khoản 17 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 48/2024/QH15, Luật số 56/2024/QH15 và Luật số 71/2025/QH15 như sau:",
+      "status": "active",
+      "operation_id": "1bedbfb73d8201fc6f55f239acc96fe9dc8f67214e8dd5bb9845f28beaf0ca76"
+    },
+    {
+      "van_ban_sua": "93/2025/QH15",
+      "dieu_khoan_sua": "Điều 71 > Khoản 3",
+      "van_ban_bi_sua": "04/2007/QH12",
+      "target_location": "Điều 4 > Khoản 19",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 4 > Khoản 19"
+      ],
+      "loai_thay_doi": "bo_sung",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "19. Thu nhập từ quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả nhiệm vụ được thương mại hóa theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về sở hữu trí tuệ.",
+      "replacement_text": "19. Thu nhập từ quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả nhiệm vụ được thương mại hóa theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về sở hữu trí tuệ.",
+      "amendment_source_section": "### Khoản 3. Bổ sung các khoản 18, 19, 20 vào sau khoản 17 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 48/2024/QH15, Luật số 56/2024/QH15 và Luật số 71/2025/QH15 như sau:\n“18. Thu nhập từ tiền lương, tiền công từ thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.\n19. Thu nhập từ quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả nhiệm vụ được thương mại hóa theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về sở hữu trí tuệ.\n20. Thu nhập của nhà đầu tư cá nhân, chuyên gia làm việc cho dự án khởi nghiệp sáng tạo, sáng lập viên doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư cá nhân góp vốn vào quỹ đầu tư mạo hiểm.”.",
+      "effective_date": "2025-10-01",
+      "can_cu_trich_doan": "### Khoản 3. Bổ sung các khoản 18, 19, 20 vào sau khoản 17 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 48/2024/QH15, Luật số 56/2024/QH15 và Luật số 71/2025/QH15 như sau:",
+      "status": "active",
+      "operation_id": "341d6d71c322e7b7602433499565897607dcdc3888fe11340f4f90636bdefca9"
+    },
+    {
+      "van_ban_sua": "93/2025/QH15",
+      "dieu_khoan_sua": "Điều 71 > Khoản 3",
+      "van_ban_bi_sua": "04/2007/QH12",
+      "target_location": "Điều 4 > Khoản 20",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 4 > Khoản 20"
+      ],
+      "loai_thay_doi": "bo_sung",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "20. Thu nhập của nhà đầu tư cá nhân, chuyên gia làm việc cho dự án khởi nghiệp sáng tạo, sáng lập viên doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư cá nhân góp vốn vào quỹ đầu tư mạo hiểm.",
+      "replacement_text": "20. Thu nhập của nhà đầu tư cá nhân, chuyên gia làm việc cho dự án khởi nghiệp sáng tạo, sáng lập viên doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư cá nhân góp vốn vào quỹ đầu tư mạo hiểm.",
+      "amendment_source_section": "### Khoản 3. Bổ sung các khoản 18, 19, 20 vào sau khoản 17 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 48/2024/QH15, Luật số 56/2024/QH15 và Luật số 71/2025/QH15 như sau:\n“18. Thu nhập từ tiền lương, tiền công từ thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.\n19. Thu nhập từ quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả nhiệm vụ được thương mại hóa theo quy định của pháp luật về khoa học, công nghệ và đổi mới sáng tạo, pháp luật về sở hữu trí tuệ.\n20. Thu nhập của nhà đầu tư cá nhân, chuyên gia làm việc cho dự án khởi nghiệp sáng tạo, sáng lập viên doanh nghiệp khởi nghiệp sáng tạo, nhà đầu tư cá nhân góp vốn vào quỹ đầu tư mạo hiểm.”.",
+      "effective_date": "2025-10-01",
+      "can_cu_trich_doan": "### Khoản 3. Bổ sung các khoản 18, 19, 20 vào sau khoản 17 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 43/2024/QH15, Luật số 48/2024/QH15, Luật số 56/2024/QH15 và Luật số 71/2025/QH15 như sau:",
+      "status": "active",
+      "operation_id": "ca1367af63c2853a885d8dba3e60836c336bf753735545186c4e33e45838bcf4"
+    }
+  ],
+  "embed_in_qdrant": false
+}

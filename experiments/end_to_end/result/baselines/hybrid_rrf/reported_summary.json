@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "configuration": "hybrid_rrf_rag",
+  "cases": 300,
+  "successful_cases": 300,
+  "metric_unit": "0_to_1",
+  "metrics": {
+    "fact_coverage": 0.719343,
+    "evidence_precision": 0.334,
+    "temporal_accuracy": 0.706667,
+    "answer_correctness": 0.737167,
+    "groundedness": 0.89928
+  }
+}

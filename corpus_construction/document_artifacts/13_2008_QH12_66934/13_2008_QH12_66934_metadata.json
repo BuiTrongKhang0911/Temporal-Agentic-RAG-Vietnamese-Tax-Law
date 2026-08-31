@@ -1,0 +1,66 @@
+{
+  "source_file": "13_2008_QH12_66934.docx",
+  "document_id": "13/2008/QH12",
+  "title": "LUẬT THUẾ GIÁ TRỊ GIA TĂNG",
+  "document_type": "luat",
+  "legal_rank": 3,
+  "issued_date": "2008-06-03",
+  "effective_date": "2009-01-01",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "57/1997/L-CTN",
+      "relation_types": [
+        "thay_the"
+      ],
+      "impact_scope": "whole_document",
+      "effective_date": "2009-01-01",
+      "status": "active"
+    },
+    {
+      "target_document_id": "07/2003/QH11",
+      "relation_types": [
+        "thay_the"
+      ],
+      "impact_scope": "whole_document",
+      "effective_date": "2009-01-01",
+      "status": "active"
+    },
+    {
+      "target_document_id": "57/2005/QH11",
+      "relation_types": [
+        "bai_bo"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2009-01-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "13/2008/QH12",
+      "dieu_khoan_sua": "Điều 15 > Khoản 3",
+      "van_ban_bi_sua": "57/2005/QH11",
+      "target_location": "Điều 2",
+      "target_level": "dieu",
+      "dieu_khoan_bi_sua": [
+        "Điều 2"
+      ],
+      "loai_thay_doi": "bai_bo",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": null,
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 3. Bãi bỏ Điều 2 của Luật sửa đổi, bổ sung một số Điều của Luật thuế tiêu thụ đặc biệt và Luật thuế giá trị gia tăng số 57/2005/QH11.",
+      "effective_date": "2009-01-01",
+      "can_cu_trich_doan": "### Khoản 3. Bãi bỏ Điều 2 của Luật sửa đổi, bổ sung một số Điều của Luật thuế tiêu thụ đặc biệt và Luật thuế giá trị gia tăng số 57/2005/QH11.",
+      "status": "active",
+      "operation_id": "a4172b82740d2d3f624facad0e33b6c61371ca951d1cc4e251423e75d08e41e9"
+    }
+  ],
+  "embed_in_qdrant": true
+}

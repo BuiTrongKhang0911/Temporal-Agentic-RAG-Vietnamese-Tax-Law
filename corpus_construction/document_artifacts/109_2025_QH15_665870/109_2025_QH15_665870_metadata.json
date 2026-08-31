@@ -1,0 +1,25 @@
+{
+  "source_file": "109_2025_QH15_665870.docx",
+  "document_id": "109/2025/QH15",
+  "title": "LUẬT THUẾ THU NHẬP CÁ NHÂN",
+  "document_type": "luat",
+  "legal_rank": 3,
+  "issued_date": "2025-12-10",
+  "effective_date": "2026-07-01",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "04/2007/QH12",
+      "relation_types": [
+        "bai_bo"
+      ],
+      "impact_scope": "whole_document",
+      "effective_date": "2026-07-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [],
+  "embed_in_qdrant": true
+}

@@ -1,0 +1,280 @@
+{
+  "source_file": "141-2026-ND-CP.docx",
+  "document_id": "141/2026/NĐ-CP",
+  "title": "NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 68/2026/NĐ-CP QUY ĐỊNH VỀ CHÍNH SÁCH THUẾ ĐỐI VỚI HỘ KINH DOANH, CÁ NHÂN KINH DOANH VÀ NGHỊ ĐỊNH SỐ 320/2025/NĐ-CP QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT THUẾ THU NHẬP DOANH NGHIỆP",
+  "document_type": "nghi_dinh",
+  "legal_rank": 2,
+  "issued_date": "2026-04-29",
+  "effective_date": "2026-01-01",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "68/2026/NĐ-CP",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2026-01-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 3",
+      "target_level": "dieu",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 3"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "7f40e9f679297d86f148ba760491153afff4a2aa9df6d8e5be83e8743fffccec"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 4",
+      "target_level": "dieu",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 4"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "fcbaabbcefea8b4a91b571eb726a7b885b11c4bf7df598ce632c1d409dd44727"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 8 > Khoản 1",
+      "target_level": "khoan",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 8 > Khoản 1"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "c51deb822ba49855c292b79fac213e51e2ae4d8b61465ba766ce6402f5aa6142"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 9",
+      "target_level": "dieu",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 9"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "53b3745136abe83d87f512a75cf2c109ce290c9e76eba9124004506db3121467"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 10",
+      "target_level": "dieu",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 10"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "5bc7d677971cfa55f2137c73ddf5628414e37a6546641bb371fbdcbc81249afe"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 11 > Khoản 3",
+      "target_level": "khoan",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 11 > Khoản 3"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "6c4628f7b4e7a59e6fa901e1d4a4cde2017661dcefb90f7d6156e3e384f79394"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 12 > Khoản 1",
+      "target_level": "khoan",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 12 > Khoản 1"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "3729c7a9ae36e080021b75717428080f1a531bebf4669b422b29bc5b8256c3ee"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 12 > Khoản 2",
+      "target_level": "khoan",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 12 > Khoản 2"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "210c5fa8858ae24c2dc8ed4f7c3355999ab54c3543e9878e44d93c6077486923"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 17 > Khoản 4",
+      "target_level": "khoan",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 17 > Khoản 4"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "c4674eaec1934e0ec89a7b1226d1053f4fd3c593c0c6dd9b29bcf75981e00ec7"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 1",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 18 > Khoản 3",
+      "target_level": "khoan",
+      "target_component": null,
+      "dieu_khoan_bi_sua": [
+        "Điều 18 > Khoản 3"
+      ],
+      "loai_thay_doi": "sua_doi_cum_tu",
+      "text_operation": "replace",
+      "anchor_text": "500 triệu đồng",
+      "operand_text": "01 tỷ đồng",
+      "noi_dung_cu": "500 triệu đồng",
+      "noi_dung_moi": "01 tỷ đồng",
+      "replacement_text": null,
+      "amendment_source_section": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi cụm từ “500 triệu đồng” thành “01 tỷ đồng” tại Điều 3, Điều 4, khoản 1 Điều 8, Điều 9, Điều 10, khoản 3 Điều 11, khoản 1 và khoản 2 Điều 12, khoản 4 Điều 17, khoản 3 Điều 18 Nghị định số 68/2026/NĐ-CP.",
+      "status": "active",
+      "operation_id": "048b8d7324e3e3dd60b28da3ef4ddd51f0754e04015585fd2a7f529f7831a391"
+    },
+    {
+      "van_ban_sua": "141/2026/NĐ-CP",
+      "dieu_khoan_sua": "Điều 1 > Khoản 2",
+      "van_ban_bi_sua": "68/2026/NĐ-CP",
+      "target_location": "Điều 8 > Khoản 5",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 8 > Khoản 5"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "5. Sử dụng hóa đơn điện tử\na) Hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trên 01 tỷ đồng thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế.\nTrường hợp hộ kinh doanh, cá nhân kinh doanh có nhiều địa điểm kinh doanh thì sử dụng mã số thuế của hộ kinh doanh, cá nhân kinh doanh cho tất cả các cửa hàng và phải ghi rõ mã địa điểm kinh doanh trên hóa đơn;\nb) Trường hợp hộ kinh doanh, cá nhân kinh doanh có doanh thu năm từ 01 tỷ đồng trở xuống đáp ứng điều kiện và có nhu cầu sử dụng hóa đơn điện tử thì đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế;\nc) Hộ kinh doanh, cá nhân kinh doanh mới ra kinh doanh tại Điều 9 Nghị định này hoặc hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trước chưa trên 01 tỷ đồng (trừ trường hợp đã đăng ký sử dụng hóa đơn điện tử theo điểm b khoản này) nhưng trong năm tính thuế có doanh thu trên 01 tỷ đồng trở lên thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế. Hộ kinh doanh, cá nhân kinh doanh đăng ký sử dụng hóa đơn điện tử trong thời gian 30 ngày kể từ ngày cuối cùng của kỳ tính thuế có doanh thu lũy kế trên 01 tỷ đồng.",
+      "replacement_text": "5. Sử dụng hóa đơn điện tử\na) Hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trên 01 tỷ đồng thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế.\nTrường hợp hộ kinh doanh, cá nhân kinh doanh có nhiều địa điểm kinh doanh thì sử dụng mã số thuế của hộ kinh doanh, cá nhân kinh doanh cho tất cả các cửa hàng và phải ghi rõ mã địa điểm kinh doanh trên hóa đơn;\nb) Trường hợp hộ kinh doanh, cá nhân kinh doanh có doanh thu năm từ 01 tỷ đồng trở xuống đáp ứng điều kiện và có nhu cầu sử dụng hóa đơn điện tử thì đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế;\nc) Hộ kinh doanh, cá nhân kinh doanh mới ra kinh doanh tại Điều 9 Nghị định này hoặc hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trước chưa trên 01 tỷ đồng (trừ trường hợp đã đăng ký sử dụng hóa đơn điện tử theo điểm b khoản này) nhưng trong năm tính thuế có doanh thu trên 01 tỷ đồng trở lên thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế. Hộ kinh doanh, cá nhân kinh doanh đăng ký sử dụng hóa đơn điện tử trong thời gian 30 ngày kể từ ngày cuối cùng của kỳ tính thuế có doanh thu lũy kế trên 01 tỷ đồng.",
+      "amendment_source_section": "### Khoản 2. Sửa đổi, bổ sung khoản 5 Điều 8 Nghị định số 68/2026/NĐ-CP như sau:\n\"5. Sử dụng hóa đơn điện tử\na) Hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trên 01 tỷ đồng thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế.\nTrường hợp hộ kinh doanh, cá nhân kinh doanh có nhiều địa điểm kinh doanh thì sử dụng mã số thuế của hộ kinh doanh, cá nhân kinh doanh cho tất cả các cửa hàng và phải ghi rõ mã địa điểm kinh doanh trên hóa đơn;\nb) Trường hợp hộ kinh doanh, cá nhân kinh doanh có doanh thu năm từ 01 tỷ đồng trở xuống đáp ứng điều kiện và có nhu cầu sử dụng hóa đơn điện tử thì đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế;\nc) Hộ kinh doanh, cá nhân kinh doanh mới ra kinh doanh tại Điều 9 Nghị định này hoặc hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trước chưa trên 01 tỷ đồng (trừ trường hợp đã đăng ký sử dụng hóa đơn điện tử theo điểm b khoản này) nhưng trong năm tính thuế có doanh thu trên 01 tỷ đồng trở lên thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế. Hộ kinh doanh, cá nhân kinh doanh đăng ký sử dụng hóa đơn điện tử trong thời gian 30 ngày kể từ ngày cuối cùng của kỳ tính thuế có doanh thu lũy kế trên 01 tỷ đồng.\".",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 2. Sửa đổi, bổ sung khoản 5 Điều 8 Nghị định số 68/2026/NĐ-CP như sau:",
+      "status": "active",
+      "operation_id": "0c237d2e11b5bd685b967f6ffec734a168a9e2e58872480df6746c15d4b7526e"
+    }
+  ],
+  "embed_in_qdrant": false
+}

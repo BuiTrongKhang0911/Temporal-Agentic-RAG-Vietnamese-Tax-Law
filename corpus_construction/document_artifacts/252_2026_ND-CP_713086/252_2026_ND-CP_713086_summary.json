@@ -1,0 +1,38 @@
+{
+  "source_file": "252_2026_ND-CP_713086.md",
+  "document_summary": "Văn bản: NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT QUẢN LÝ THUẾ. Số hiệu: 252/2026/NĐ-CP.",
+  "document_metadata": {
+    "source_file": "252_2026_ND-CP_713086.docx",
+    "document_id": "252/2026/NĐ-CP",
+    "title": "NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT QUẢN LÝ THUẾ",
+    "document_type": "nghi_dinh",
+    "legal_rank": 2,
+    "issued_date": "2026-06-30",
+    "effective_date": "2026-07-01",
+    "expiration_date": null,
+    "status": "active",
+    "affects_documents": [
+      {
+        "target_document_id": "126/2020/NĐ-CP",
+        "relation_types": [
+          "thay_the"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2026-07-01",
+        "status": "active"
+      },
+      {
+        "target_document_id": "117/2025/NĐ-CP",
+        "relation_types": [
+          "thay_the"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2026-07-01",
+        "status": "active"
+      }
+    ],
+    "affected_by_documents": [],
+    "amendment_relations": [],
+    "embed_in_qdrant": true
+  }
+}

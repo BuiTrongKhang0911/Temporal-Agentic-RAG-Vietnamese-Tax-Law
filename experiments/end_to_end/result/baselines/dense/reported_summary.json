@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "configuration": "dense_rag",
+  "cases": 300,
+  "successful_cases": 300,
+  "metric_unit": "0_to_1",
+  "metrics": {
+    "fact_coverage": 0.644223,
+    "evidence_precision": 0.308667,
+    "temporal_accuracy": 0.667667,
+    "answer_correctness": 0.684667,
+    "groundedness": 0.889637
+  }
+}

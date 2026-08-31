@@ -1,0 +1,25 @@
+{
+  "source_file": "83_2013_ND-CP_201712.docx",
+  "document_id": "83/2013/NĐ-CP",
+  "title": "NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ THUẾ VÀ LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ THUẾ",
+  "document_type": "nghi_dinh",
+  "legal_rank": 2,
+  "issued_date": "2013-07-22",
+  "effective_date": "2013-09-15",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "85/2007/NĐ-CP",
+      "relation_types": [
+        "thay_the"
+      ],
+      "impact_scope": "whole_document",
+      "effective_date": "2013-09-15",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [],
+  "embed_in_qdrant": true
+}

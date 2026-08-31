@@ -1,0 +1,72 @@
+﻿{
+  "schema_version": 1,
+  "cases": 100,
+  "successful_cases": 100,
+  "metric_unit": "0_to_1_except_counts_and_context_size",
+  "configuration": {
+    "candidate_limit_per_dense_or_bm25_branch": 20,
+    "top_subchunks_per_temporal_scope": 5,
+    "dense_encoder": "BAAI/bge-m3",
+    "lexical_retriever": "BM25 with Vietnamese word segmentation",
+    "fusion": "RRF(k=60)",
+    "cross_encoder_reranker": "BAAI/bge-reranker-base",
+    "indexed_content": "SAC Tier 1 + SAC Tier 2 + original subchunk",
+    "reranker_passage": "candidate subchunk content",
+    "disabled_for_all_methods": "same-Article expansion, complete-provision restoration, required-fact-aware reranking, and sibling expansion"
+  },
+  "methods": {
+    "dense": {
+      "recall_at_k": 0.645,
+      "precision_at_k": 0.182,
+      "ndcg_at_k": 0.537057,
+      "fact_coverage": 0.535,
+      "evidence_precision": 0.151,
+      "ranked_subchunks": 5.35,
+      "context_subchunks": 5.35,
+      "context_chars": 1719.24,
+      "context_words": 380.16,
+      "estimated_context_tokens": 430.17,
+      "candidate_pool": 21.4
+    },
+    "bm25": {
+      "recall_at_k": 0.648333,
+      "precision_at_k": 0.189,
+      "ndcg_at_k": 0.537376,
+      "fact_coverage": 0.523333,
+      "evidence_precision": 0.158,
+      "ranked_subchunks": 5.35,
+      "context_subchunks": 5.35,
+      "context_chars": 1812.05,
+      "context_words": 400.02,
+      "estimated_context_tokens": 453.4,
+      "candidate_pool": 21.4
+    },
+    "hybrid_rrf": {
+      "recall_at_k": 0.693333,
+      "precision_at_k": 0.199,
+      "ndcg_at_k": 0.588787,
+      "fact_coverage": 0.565,
+      "evidence_precision": 0.167,
+      "ranked_subchunks": 5.35,
+      "context_subchunks": 5.35,
+      "context_chars": 1772.14,
+      "context_words": 392.29,
+      "estimated_context_tokens": 443.39,
+      "candidate_pool": 21.4
+    },
+    "hybrid_rerank": {
+      "recall_at_k": 0.706667,
+      "precision_at_k": 0.201,
+      "ndcg_at_k": 0.613896,
+      "fact_coverage": 0.56,
+      "evidence_precision": 0.161,
+      "ranked_subchunks": 5.35,
+      "context_subchunks": 5.35,
+      "context_chars": 1753.38,
+      "context_words": 387.45,
+      "estimated_context_tokens": 438.7,
+      "candidate_pool": 21.4
+    }
+  }
+}
+

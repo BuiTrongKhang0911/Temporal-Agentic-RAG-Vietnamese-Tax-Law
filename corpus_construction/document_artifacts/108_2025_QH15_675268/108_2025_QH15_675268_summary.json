@@ -1,0 +1,29 @@
+{
+  "source_file": "108_2025_QH15_675268.md",
+  "document_summary": "[108/2025/QH15 | Hiệu lực: 2026-07-01] Luật Quản lý thuế quy định cơ chế quản lý thuế dựa trên phân nhóm người nộp thuế, đẩy mạnh chuyển đổi số, hoàn thuế tự động và áp dụng quản lý rủi ro, chính thức thay thế Luật số 38/2019/QH14.",
+  "document_metadata": {
+    "source_file": "108_2025_QH15_675268.docx",
+    "document_id": "108/2025/QH15",
+    "title": "LUẬT QUẢN LÝ THUẾ",
+    "document_type": "luat",
+    "legal_rank": 3,
+    "issued_date": "2025-12-10",
+    "effective_date": "2026-07-01",
+    "expiration_date": null,
+    "status": "active",
+    "affects_documents": [
+      {
+        "target_document_id": "38/2019/QH14",
+        "relation_types": [
+          "bai_bo"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2026-07-01",
+        "status": "active"
+      }
+    ],
+    "affected_by_documents": [],
+    "amendment_relations": [],
+    "embed_in_qdrant": true
+  }
+}

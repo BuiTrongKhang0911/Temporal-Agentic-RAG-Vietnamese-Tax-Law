@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trợ lý pháp luật thuế</title>
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <h1>Trợ lý pháp luật thuế</h1>
+        <p>Thuế thu nhập cá nhân, thuế giá trị gia tăng và quản lý thuế</p>
+      </div>
+      <div class="topbar-actions">
+        <span class="status" id="status">Đang kiểm tra</span>
+        <button class="secondary" id="resetButton" type="button">Cuộc trò chuyện mới</button>
+      </div>
+    </header>
+
+    <main class="chat" id="chat" aria-live="polite">
+      <div class="message assistant">
+        <div class="message-label">Trợ lý</div>
+        <div class="message-body">Bạn cần tra cứu vấn đề thuế nào?</div>
+      </div>
+    </main>
+
+    <form class="composer" id="chatForm">
+      <textarea id="messageInput" rows="2" maxlength="12000" placeholder="Nhập câu hỏi pháp luật thuế..." required></textarea>
+      <button id="sendButton" type="submit">Gửi</button>
+    </form>
+  </div>
+
+  <template id="messageTemplate">
+    <div class="message">
+      <div class="message-label"></div>
+      <div class="message-body"></div>
+      <details class="trace">
+        <summary>Chi tiết xử lý</summary>
+        <pre></pre>
+      </details>
+    </div>
+  </template>
+
+  <script src="/assets/app.js"></script>
+</body>
+</html>
+

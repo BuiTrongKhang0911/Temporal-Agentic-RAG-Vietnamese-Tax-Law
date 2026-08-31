@@ -1,0 +1,304 @@
+{
+  "version": 2,
+  "policy": "Chỉ ánh xạ cách nói thực tế sang thuật ngữ pháp lý ứng viên. Không lưu thuế suất, ngưỡng, ngày hiệu lực, điều kiện hoặc kết luận áp dụng.",
+  "entries": [
+    {
+      "legal_term": "thuế thu nhập cá nhân",
+      "aliases": ["TNCN", "thuế tncn", "thuế cá nhân"],
+      "definition": "Sắc thuế gắn với các khoản thu nhập của cá nhân; cần phân biệt với thuế đánh vào doanh thu, hàng hóa hoặc thu nhập của doanh nghiệp.",
+      "note": "Chỉ mở rộng chữ viết tắt; không suy ra loại thu nhập chịu thuế.",
+      "source_refs": ["112/VBHN-VPQH"]
+    },
+    {
+      "legal_term": "thuế giá trị gia tăng",
+      "aliases": ["GTGT", "thuế gtgt", "VAT", "thuế vat"],
+      "definition": "Sắc thuế gắn với giá trị tăng thêm của hàng hóa, dịch vụ trong quá trình từ sản xuất, lưu thông đến tiêu dùng.",
+      "note": "Chỉ mở rộng chữ viết tắt; không suy ra thuế suất hoặc phương pháp tính.",
+      "source_refs": ["114/VBHN-VPQH > Điều 2"]
+    },
+    {
+      "legal_term": "thuế thu nhập doanh nghiệp",
+      "aliases": ["TNDN", "thuế tndn"],
+      "definition": "Sắc thuế gắn với thu nhập chịu thuế của doanh nghiệp và tổ chức kinh doanh; khác với thuế thu nhập cá nhân.",
+      "note": "Chỉ mở rộng chữ viết tắt.",
+      "source_refs": []
+    },
+    {
+      "legal_term": "hộ kinh doanh",
+      "aliases": ["HKD", "hộ kd"],
+      "definition": "Chủ thể kinh doanh được đăng ký theo mô hình hộ kinh doanh; cần phân biệt với doanh nghiệp và với cá nhân có thu nhập nhưng không hoạt động dưới mô hình hộ kinh doanh.",
+      "note": "Không tự đồng nhất hộ kinh doanh với mọi cá nhân có hoạt động kinh doanh.",
+      "source_refs": ["114/VBHN-VPQH > Điều 4 > Khoản 5"]
+    },
+    {
+      "legal_term": "cá nhân kinh doanh",
+      "aliases": ["buôn bán cá nhân", "kinh doanh cá thể", "tự kinh doanh"],
+      "definition": "Cá nhân thực hiện hoạt động sản xuất, kinh doanh hàng hóa hoặc dịch vụ để tạo doanh thu; không mặc nhiên đồng nhất với mọi người có thu nhập.",
+      "note": "Chỉ là ứng viên về chủ thể; không tự kết luận người dùng là cá nhân kinh doanh.",
+      "source_refs": ["112/VBHN-VPQH > Điều 7", "114/VBHN-VPQH > Điều 4 > Khoản 5"]
+    },
+    {
+      "legal_term": "hóa đơn điện tử",
+      "aliases": ["HĐĐT", "hóa đơn đt"],
+      "definition": "Hóa đơn được lập, gửi, nhận, lưu trữ và quản lý dưới dạng dữ liệu điện tử khi bán hàng hóa hoặc cung cấp dịch vụ.",
+      "note": "Chỉ mở rộng chữ viết tắt.",
+      "source_refs": []
+    },
+    {
+      "legal_term": "kinh doanh thương mại điện tử",
+      "aliases": ["TMĐT", "bán online", "bán hàng online", "bán trên mạng", "kinh doanh online", "livestream bán hàng", "live bán", "live bán hàng", "chốt đơn livestream"],
+      "definition": "Hoạt động mua bán hàng hóa hoặc cung cấp dịch vụ bằng phương tiện điện tử, mạng internet hoặc kênh trực tuyến, không giới hạn ở một sàn cụ thể.",
+      "note": "Giữ nguyên nền tảng, cách bán và chủ thể nếu người dùng đã nêu.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 1 > Điểm d", "114/VBHN-VPQH > Điều 4 > Khoản 4"]
+    },
+    {
+      "legal_term": "kinh doanh trên sàn thương mại điện tử, nền tảng số",
+      "aliases": ["Shopee", "sàn cam", "shop Shopee", "mở shop Shopee", "kinh doanh Shopee", "buôn bán qua Shopee", "bán Shopee", "bán hàng Shopee", "bán trên Shopee", "TikTok Shop", "shop TikTok", "bán hàng TikTok Shop", "Lazada", "shop Lazada", "kinh doanh Lazada", "bán Lazada", "bán trên Lazada"],
+      "definition": "Hoạt động của người bán hoặc người cung cấp dịch vụ thông qua một sàn thương mại điện tử hay nền tảng số như Shopee, Lazada hoặc TikTok Shop; vai trò của người bán khác với vai trò của đơn vị quản lý sàn.",
+      "note": "Không tự kết luận nền tảng có trách nhiệm khấu trừ hoặc nộp thay.",
+      "source_refs": ["114/VBHN-VPQH > Điều 4 > Khoản 5"],
+      "ambiguity_group": "digital_platform_business"
+    },
+    {
+      "legal_term": "kinh doanh dựa trên nền tảng số",
+      "aliases": ["kinh doanh qua app", "làm ăn qua nền tảng", "kiếm tiền trên nền tảng số"],
+      "definition": "Nhóm hoạt động kinh doanh sử dụng ứng dụng, nền tảng hoặc hạ tầng số để kết nối, cung cấp sản phẩm, dịch vụ hay tạo doanh thu.",
+      "note": "Giữ nguyên loại hoạt động và nguồn thu cụ thể; đây chỉ là phạm vi ứng viên.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 1 > Điểm d", "114/VBHN-VPQH > Điều 4 > Khoản 4"],
+      "ambiguity_group": "digital_platform_business"
+    },
+    {
+      "legal_term": "thu nhập từ hoạt động đại lý, môi giới, hợp tác kinh doanh với tổ chức",
+      "aliases": ["affiliate", "làm aff", "tiền hoa hồng Shopee", "tiền hoa hồng TikTok"],
+      "definition": "Khoản thu nhập thường mang bản chất hoa hồng hoặc phần được chia khi cá nhân giới thiệu, môi giới, làm đại lý hay hợp tác kinh doanh với tổ chức; khác với doanh thu trực tiếp từ bán hàng của chính cá nhân.",
+      "note": "Chỉ giữ vai trò neo ngôn ngữ; không tự phân loại khoản tiền là tiền công hay thu nhập kinh doanh.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 1 > Điểm c"]
+    },
+    {
+      "legal_term": "hoạt động cung cấp sản phẩm và dịch vụ nội dung thông tin số",
+      "aliases": ["làm YouTube", "YouTuber", "TikToker", "streamer", "Adsense", "Google Adsense", "tiền quảng cáo số", "bán nội dung số"],
+      "definition": "Hoạt động tạo, phân phối hoặc khai thác nội dung số và dịch vụ thông tin số, chẳng hạn video, nội dung phát trực tuyến hoặc doanh thu quảng cáo gắn với nội dung.",
+      "note": "Giữ nguyên nền tảng và nguồn tiền; không tự phân loại mọi thu nhập trên mạng vào nhóm này.",
+      "source_refs": ["112/VBHN-VPQH > Điều 7 > Khoản 3 > Điểm đ"]
+    },
+    {
+      "legal_term": "hoạt động hành nghề độc lập",
+      "aliases": ["freelancer", "làm freelance", "làm nghề tự do"],
+      "definition": "Hoạt động cá nhân tự cung cấp chuyên môn hoặc dịch vụ nghề nghiệp cho khách hàng mà không nhất thiết làm việc theo quan hệ lao động thường xuyên.",
+      "note": "Đây là thuật ngữ ứng viên; không tự kết luận người làm tự do có giấy phép hoặc chứng chỉ hành nghề.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 1 > Điểm b"]
+    },
+    {
+      "legal_term": "sản xuất, vận tải, dịch vụ có gắn với hàng hóa",
+      "aliases": ["chạy Grab", "chạy Be", "chạy Gojek", "chạy Xanh SM", "xe công nghệ", "chạy xe công nghệ"],
+      "definition": "Nhóm hoạt động tạo ra sản phẩm, vận chuyển người hoặc hàng hóa, hoặc cung cấp dịch vụ đi kèm việc giao nhận và sử dụng hàng hóa; có thể bao gồm hoạt động vận tải qua ứng dụng.",
+      "note": "Giữ tên nền tảng và loại phương tiện nếu người dùng nêu.",
+      "source_refs": ["112/VBHN-VPQH > Điều 7 > Khoản 3 > Điểm d", "114/VBHN-VPQH > Điều 12 > Khoản 2 > Điểm b3"]
+    },
+    {
+      "legal_term": "cho thuê tài sản",
+      "aliases": ["cho thuê nhà", "cho thuê căn hộ", "cho thuê mặt bằng", "cho thuê phòng trọ", "chủ nhà trọ", "tiền nhà trọ", "cho thuê xe", "cho thuê máy móc"],
+      "strong_signals": ["cho thuê xe", "cho thuê máy móc"],
+      "definition": "Hoạt động giao tài sản cho bên thuê sử dụng trong một thời hạn để nhận tiền thuê. Đây là nhóm rộng, có thể bao gồm bất động sản, phương tiện hoặc máy móc.",
+      "note": "Là nhóm pháp lý rộng. Với nhà, căn hộ, mặt bằng hoặc phòng trọ, đồng thời xem ứng viên cho thuê bất động sản; không tự suy ra kinh doanh lưu trú.",
+      "source_refs": ["112/VBHN-VPQH > Điều 7 > Khoản 3 > Điểm c", "114/VBHN-VPQH > Điều 7 > Khoản 1 > Điểm d"],
+      "ambiguity_group": "rental_activity"
+    },
+    {
+      "legal_term": "cho thuê bất động sản",
+      "aliases": ["cho thuê nhà", "cho thuê căn hộ", "cho thuê mặt bằng", "cho thuê phòng trọ", "chủ nhà trọ", "tiền nhà trọ", "cho thuê đất"],
+      "strong_signals": ["cho thuê nhà", "cho thuê căn hộ", "cho thuê mặt bằng", "cho thuê phòng trọ", "cho thuê đất"],
+      "definition": "Hoạt động cho thuê nhà, căn hộ, mặt bằng, đất hoặc bất động sản khác theo quan hệ cho thuê tài sản; được phân biệt với việc cung cấp dịch vụ lưu trú.",
+      "note": "Chỉ là ứng viên đối với tài sản bất động sản; không đồng nhất với kinh doanh lưu trú và không tự áp dụng cách tính thuế.",
+      "source_refs": ["112/VBHN-VPQH > Điều 7 > Khoản 4"],
+      "ambiguity_group": "rental_activity"
+    },
+    {
+      "legal_term": "kinh doanh lưu trú",
+      "aliases": ["dịch vụ lưu trú", "homestay", "Airbnb", "cho thuê homestay", "kinh doanh homestay", "cho thuê Airbnb", "kinh doanh Airbnb", "khách sạn", "nhà nghỉ", "thuê theo ngày", "cho thuê theo ngày", "thuê phòng theo giờ", "cho thuê phòng theo giờ"],
+      "strong_signals": ["Airbnb", "homestay", "khách sạn", "nhà nghỉ", "theo ngày", "theo giờ"],
+      "definition": "Hoạt động cung cấp chỗ ở ngắn hạn hoặc theo lượt, thường thể hiện qua khách sạn, nhà nghỉ, homestay, Airbnb hoặc hình thức thuê theo ngày, theo giờ. Không phải mọi trường hợp cho thuê nhà đều là kinh doanh lưu trú.",
+      "note": "Phân biệt với cho thuê bất động sản thông thường. Không tự kết luận chỉ từ cụm cho thuê nhà nếu không có dấu hiệu cung cấp lưu trú.",
+      "source_refs": ["112/VBHN-VPQH > Điều 7 > Khoản 4"],
+      "ambiguity_group": "rental_activity"
+    },
+    {
+      "legal_term": "kinh doanh bất động sản",
+      "aliases": ["kinh doanh nhà đất", "mua đi bán lại nhà đất", "bán căn hộ dự án", "bán nền dự án", "làm dự án bất động sản"],
+      "definition": "Hoạt động đầu tư, mua, nhận chuyển nhượng, xây dựng hoặc khai thác bất động sản nhằm bán, chuyển nhượng, cho thuê hay kinh doanh thường xuyên; khác với cá nhân chuyển nhượng một tài sản riêng lẻ.",
+      "note": "Không dùng cho một giao dịch bán hoặc cho thuê tài sản riêng lẻ nếu câu hỏi không thể hiện hoạt động kinh doanh.",
+      "source_refs": ["114/VBHN-VPQH > Điều 7 > Khoản 1 > Điểm h"],
+      "ambiguity_group": "real_estate_activity"
+    },
+    {
+      "legal_term": "chuyển nhượng bất động sản",
+      "aliases": ["bán nhà", "bán đất", "sang tên sổ đỏ", "bán căn nhà", "chuyển nhượng nhà đất"],
+      "definition": "Việc chuyển quyền sở hữu nhà, quyền sử dụng đất hoặc quyền đối với bất động sản từ một chủ thể sang chủ thể khác; thường tương ứng cách nói bán nhà, bán đất hoặc sang tên.",
+      "note": "Không tự thêm điều kiện nhà ở duy nhất, quan hệ thân nhân hoặc thời gian sở hữu.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 5", "112/VBHN-VPQH > Điều 14"],
+      "ambiguity_group": "real_estate_activity"
+    },
+    {
+      "legal_term": "thu nhập từ chuyển nhượng chứng khoán",
+      "aliases": ["bán cổ phiếu", "chơi cổ phiếu", "bán chứng khoán", "lãi chứng khoán"],
+      "definition": "Khoản thu nhập phát sinh từ việc chuyển nhượng cổ phiếu, chứng chỉ quỹ hoặc các loại chứng khoán và quyền liên quan đến chứng khoán.",
+      "note": "Không tự điền giá chuyển nhượng hoặc thuế suất.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 4 > Điểm b", "112/VBHN-VPQH > Điều 13 > Khoản 2"]
+    },
+    {
+      "legal_term": "thu nhập từ đầu tư vốn",
+      "aliases": ["lãi cho vay", "lợi tức cổ phần", "tiền chia cổ tức", "cổ tức"],
+      "definition": "Khoản thu nhập cá nhân nhận được từ việc cho vay, góp vốn, nắm giữ phần vốn hoặc hưởng lợi tức, cổ tức từ vốn đầu tư.",
+      "note": "Không đồng nhất chuyển nhượng vốn với đầu tư vốn.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 3", "112/VBHN-VPQH > Điều 12"]
+    },
+    {
+      "legal_term": "thu nhập từ chuyển nhượng vốn",
+      "aliases": ["bán phần vốn góp", "chuyển nhượng phần vốn", "bán vốn góp", "rút vốn bằng chuyển nhượng"],
+      "definition": "Khoản thu nhập phát sinh khi cá nhân chuyển nhượng phần vốn góp hoặc quyền sở hữu vốn trong tổ chức; cần phân biệt với cổ tức và chuyển nhượng chứng khoán.",
+      "note": "Phân biệt với cổ tức, lợi tức và chuyển nhượng chứng khoán.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 4", "112/VBHN-VPQH > Điều 13"]
+    },
+    {
+      "legal_term": "thu nhập từ tiền lương, tiền công",
+      "aliases": ["tiền lương", "tiền công", "thu nhập đi làm", "lương tháng", "tiền thù lao", "lương gross", "gross salary", "lương net", "net salary", "quy đổi net", "gross sang net"],
+      "definition": "Khoản thu nhập cá nhân nhận được từ quan hệ lao động, thực hiện công việc, nhận lương, tiền công, thù lao hoặc các lợi ích gắn với việc làm.",
+      "note": "Không tự phân loại mọi khoản thanh toán từ tổ chức là tiền lương, tiền công; giữ nguyên ý nghĩa gross hoặc net nếu người dùng nêu.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 2", "112/VBHN-VPQH > Điều 8"]
+    },
+    {
+      "legal_term": "thu nhập từ nhận thừa kế, quà tặng",
+      "aliases": ["được cho nhà", "được tặng đất", "được thừa kế nhà", "được thừa kế đất", "nhận quà tặng tài sản"],
+      "definition": "Khoản lợi ích hoặc tài sản cá nhân nhận được do thừa kế hoặc được người khác tặng cho mà không phải là thanh toán cho việc bán hàng hay cung cấp dịch vụ.",
+      "note": "Giữ nguyên loại tài sản và quan hệ giữa các bên; không tự kết luận miễn thuế.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 9", "112/VBHN-VPQH > Điều 18"]
+    },
+    {
+      "legal_term": "thu nhập từ tiền bản quyền",
+      "aliases": ["tiền bản quyền", "royalty", "tiền tác quyền", "bán quyền sử dụng tác phẩm"],
+      "definition": "Khoản thu nhập nhận được từ việc chuyển giao, cho phép khai thác hoặc sử dụng quyền sở hữu trí tuệ, tác phẩm, sáng chế hay quyền tương tự.",
+      "note": "Phân biệt với tiền công sáng tạo và chuyển nhượng toàn bộ tài sản.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 7", "112/VBHN-VPQH > Điều 16"]
+    },
+    {
+      "legal_term": "thu nhập từ nhượng quyền thương mại",
+      "aliases": ["tiền nhượng quyền", "franchise", "phí nhượng quyền"],
+      "definition": "Khoản thu nhập phát sinh từ việc cho phép bên khác kinh doanh theo mô hình, nhãn hiệu, phương thức hoặc hệ thống thương mại của bên nhượng quyền.",
+      "note": "Không đồng nhất với tiền bản quyền.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 8", "112/VBHN-VPQH > Điều 17"]
+    },
+    {
+      "legal_term": "thu nhập từ trúng thưởng",
+      "aliases": ["trúng xổ số", "trúng khuyến mại", "trúng cược", "tiền trúng thưởng"],
+      "definition": "Khoản tiền hoặc tài sản cá nhân nhận được do trúng xổ số, khuyến mại, cuộc thi, trò chơi, đặt cược hoặc hình thức trúng thưởng khác.",
+      "note": "Giữ nguyên loại giải thưởng; không tự suy ra phần thu nhập tính thuế.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 6", "112/VBHN-VPQH > Điều 15"]
+    },
+    {
+      "legal_term": "thu nhập từ chuyển nhượng tài sản số",
+      "aliases": ["bán tài sản số", "chuyển nhượng tài sản số", "bán crypto", "bán coin", "bán NFT", "bán token"],
+      "definition": "Khoản thu nhập phát sinh khi cá nhân chuyển giao hoặc bán tài sản tồn tại dưới dạng số như token, tài sản mã hóa hoặc NFT; dictionary không tự kết luận chế độ pháp lý của tài sản đó.",
+      "note": "Không khẳng định một tài sản cụ thể thuộc khái niệm tài sản số nếu câu hỏi chưa đủ dữ kiện.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 10 > Điểm d"]
+    },
+    {
+      "legal_term": "thu nhập từ chuyển nhượng vàng miếng",
+      "aliases": ["bán vàng miếng", "mua bán vàng miếng", "lãi bán vàng miếng"],
+      "definition": "Khoản thu nhập phát sinh từ việc chuyển nhượng hoặc mua bán vàng ở dạng vàng miếng; không đồng nhất với mọi giao dịch vàng trang sức.",
+      "note": "Không áp dụng cho mọi loại vàng hoặc đồ trang sức; giữ nguyên loại vàng người dùng nêu.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 10 > Điểm đ"]
+    },
+    {
+      "legal_term": "thu nhập từ chuyển nhượng kết quả giảm phát thải khí nhà kính, tín chỉ các-bon",
+      "aliases": ["bán tín chỉ carbon", "chuyển nhượng tín chỉ carbon", "bán carbon credit", "carbon credit"],
+      "definition": "Khoản thu nhập phát sinh từ việc chuyển giao kết quả giảm phát thải khí nhà kính hoặc tín chỉ các-bon được xác lập theo cơ chế có liên quan.",
+      "note": "Giữ nguyên việc chuyển nhượng lần đầu hay các lần sau nếu người dùng nêu.",
+      "source_refs": ["112/VBHN-VPQH > Điều 3 > Khoản 10 > Điểm b", "112/VBHN-VPQH > Điều 4 > Khoản 16"]
+    },
+    {
+      "legal_term": "nhà cung cấp nước ngoài",
+      "aliases": ["nhà cung cấp ở nước ngoài", "công ty nước ngoài bán dịch vụ vào Việt Nam", "nền tảng nước ngoài bán cho người Việt"],
+      "definition": "Tổ chức hoặc cá nhân ở nước ngoài cung cấp hàng hóa, dịch vụ cho tổ chức hoặc cá nhân tại Việt Nam; khác với một người nước ngoài chỉ cư trú hoặc làm việc tại Việt Nam.",
+      "negative_signals": [
+        "người nước ngoài ở Việt Nam",
+        "cá nhân cư trú",
+        "ngày có mặt tại Việt Nam",
+        "183 ngày",
+        "190 ngày"
+      ],
+      "note": "Không tự kết luận có hay không có cơ sở thường trú tại Việt Nam.",
+      "source_refs": ["114/VBHN-VPQH > Điều 4 > Khoản 4"]
+    },
+    {
+      "legal_term": "nhà quản lý sàn giao dịch thương mại điện tử",
+      "aliases": ["sàn thương mại điện tử", "sàn bán hàng", "bên quản lý sàn"],
+      "definition": "Tổ chức vận hành hoặc quản lý sàn giao dịch thương mại điện tử, tạo môi trường để người bán và người mua thực hiện giao dịch; khác với cá nhân hay hộ kinh doanh bán hàng trên sàn.",
+      "note": "Không tự kết luận chủ thể nào khấu trừ, kê khai hoặc nộp thay.",
+      "source_refs": ["114/VBHN-VPQH > Điều 4 > Khoản 5"]
+    },
+    {
+      "legal_term": "thức ăn chăn nuôi, thức ăn thủy sản",
+      "aliases": ["thức ăn chăn nuôi", "thức ăn gia súc", "thức ăn cho gia súc", "thức ăn gia cầm", "thức ăn cho gia cầm", "thức ăn cho vật nuôi", "thức ăn thủy sản", "cám chăn nuôi", "cám gia súc", "cám gia cầm"],
+      "definition": "Thức ăn chăn nuôi theo pháp luật về chăn nuôi và thức ăn thủy sản theo pháp luật về thủy sản. Cách gọi trong văn bản cũ còn gồm thức ăn cho gia súc, gia cầm và vật nuôi khác.",
+      "note": "Chỉ ánh xạ tên nhóm hàng hóa; không tự kết luận chịu thuế, không chịu thuế hoặc áp dụng thuế suất nào tại thời điểm được hỏi.",
+      "source_refs": ["48/2024/QH15 > Điều 5 > Khoản 3", "13/2008/QH12 > Điều 8 > Khoản 2 > Điểm c"]
+    },
+    {
+      "legal_term": "hoạt động dạy học, dạy nghề",
+      "aliases": ["dạy thêm", "mở lớp học", "thu học phí", "dạy gia sư", "đào tạo nghề", "mở lớp dạy nghề"],
+      "definition": "Hoạt động truyền đạt kiến thức, giảng dạy, đào tạo kỹ năng hoặc nghề nghiệp cho người học, bao gồm lớp học, gia sư và đào tạo nghề.",
+      "note": "Không tự kết luận hoạt động đáp ứng pháp luật về giáo dục hoặc giáo dục nghề nghiệp.",
+      "source_refs": ["114/VBHN-VPQH > Điều 5 > Khoản 13"]
+    },
+    {
+      "legal_term": "dịch vụ y tế",
+      "aliases": ["khám bệnh", "chữa bệnh", "phòng khám", "tiền giường bệnh", "cho thuê phòng bệnh", "xét nghiệm", "chụp chiếu"],
+      "definition": "Dịch vụ chuyên môn phục vụ khám bệnh, chữa bệnh, phòng bệnh, xét nghiệm, chẩn đoán hoặc chăm sóc người bệnh; cần phân biệt với việc cho thuê tài sản thông thường.",
+      "note": "Giữ nguyên loại dịch vụ; không tự đưa các dịch vụ làm đẹp hoặc chăm sóc không thuộc y tế vào nhóm này.",
+      "source_refs": ["114/VBHN-VPQH > Điều 5 > Khoản 10 > Điểm a"]
+    },
+    {
+      "legal_term": "sản phẩm phần mềm và dịch vụ phần mềm",
+      "aliases": ["bán phần mềm", "dịch vụ phần mềm", "làm phần mềm thuê", "phần mềm SaaS", "SaaS"],
+      "definition": "Phần mềm được tạo ra để sử dụng trên thiết bị hoặc hệ thống thông tin và các dịch vụ trực tiếp liên quan đến phần mềm, bao gồm mô hình cung cấp phần mềm trực tuyến.",
+      "note": "Không tự kết luận mọi dịch vụ công nghệ hoặc ứng dụng đều là sản phẩm, dịch vụ phần mềm theo pháp luật.",
+      "source_refs": ["114/VBHN-VPQH > Điều 5 > Khoản 21"]
+    },
+    {
+      "legal_term": "chứng từ thanh toán không dùng tiền mặt",
+      "aliases": ["chứng từ chuyển khoản", "thanh toán qua ngân hàng", "trả bằng chuyển khoản", "không trả tiền mặt"],
+      "definition": "Tài liệu hoặc dữ liệu chứng minh khoản thanh toán được thực hiện bằng phương thức không dùng tiền mặt, chẳng hạn chuyển khoản qua ngân hàng hoặc phương thức điện tử phù hợp.",
+      "note": "Cùng cụm chuyển khoản có thể chỉ dòng tiền nhận vào; giữ nguyên chiều thanh toán và mục đích giao dịch.",
+      "source_refs": ["114/VBHN-VPQH > Điều 14 > Khoản 2 > Điểm b"],
+      "ambiguity_group": "bank_transfer_context"
+    },
+    {
+      "legal_term": "hàng hóa xuất khẩu",
+      "aliases": ["xuất hàng ra nước ngoài", "bán hàng ra nước ngoài", "đơn hàng xuất khẩu"],
+      "definition": "Hàng hóa được bán, giao hoặc đưa ra khỏi Việt Nam hay vào khu vực được xử lý theo cơ chế xuất khẩu; khác với dịch vụ cung cấp cho khách hàng nước ngoài.",
+      "note": "Không tự kết luận hàng hóa đáp ứng điều kiện xuất khẩu hoặc thuế suất 0%.",
+      "source_refs": ["114/VBHN-VPQH > Điều 9 > Khoản 1 > Điểm a"]
+    },
+    {
+      "legal_term": "dịch vụ xuất khẩu",
+      "aliases": ["bán dịch vụ cho khách nước ngoài", "làm dịch vụ cho công ty nước ngoài", "cung cấp dịch vụ ra nước ngoài"],
+      "definition": "Dịch vụ được cung cấp cho tổ chức hoặc cá nhân ở nước ngoài và gắn với việc tiêu dùng hoặc sử dụng ngoài Việt Nam theo điều kiện pháp luật tương ứng.",
+      "note": "Không tự kết luận nơi tiêu dùng dịch vụ hoặc điều kiện áp dụng thuế suất 0%.",
+      "source_refs": ["114/VBHN-VPQH > Điều 9 > Khoản 1 > Điểm b"]
+    },
+    {
+      "legal_term": "bán, cho thuê, cho thuê mua nhà ở xã hội",
+      "aliases": ["bán nhà ở xã hội", "cho thuê nhà ở xã hội", "thuê mua nhà ở xã hội", "NOXH"],
+      "definition": "Hoạt động bán, cho thuê hoặc cho thuê mua nhà ở thuộc chương trình hay loại hình nhà ở xã hội; khác với giao dịch nhà ở thương mại thông thường.",
+      "note": "Không tự kết luận một căn nhà là nhà ở xã hội theo Luật Nhà ở.",
+      "source_refs": ["114/VBHN-VPQH > Điều 9 > Khoản 2 > Điểm n"]
+    },
+    {
+      "legal_term": "vận chuyển hành khách công cộng",
+      "aliases": ["xe buýt công cộng", "tàu điện", "vận tải hành khách công cộng", "xe bus"],
+      "definition": "Hoạt động vận chuyển nhiều hành khách phục vụ nhu cầu đi lại chung theo tuyến, mạng lưới hoặc phương thức công cộng như xe buýt và tàu điện.",
+      "note": "Phân biệt với kinh doanh vận tải hành khách thông thường và xe công nghệ.",
+      "source_refs": ["114/VBHN-VPQH > Điều 5 > Khoản 16"]
+    }
+  ]
+}

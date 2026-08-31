@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "configuration": "proposed_gemini",
+  "cases": 300,
+  "successful_cases": 300,
+  "metric_unit": "0_to_1",
+  "metrics": {
+    "fact_coverage": 0.896167,
+    "evidence_precision": 0.76767,
+    "temporal_accuracy": 0.957143,
+    "answer_correctness": 0.890167,
+    "groundedness": 0.931273
+  }
+}

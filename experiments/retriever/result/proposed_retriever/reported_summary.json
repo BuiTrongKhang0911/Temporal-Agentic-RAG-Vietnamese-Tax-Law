@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "cases": 100,
+  "metric_unit": "0_to_1_except_counts_and_context_size",
+  "configurations": {
+    "full_provision": {
+      "recall_at_k": 0.811667,
+      "precision_at_k": 0.234333,
+      "ndcg_at_k": 0.703172,
+      "fact_coverage": 0.848333,
+      "evidence_precision": 0.222356,
+      "ranked_provisions": 5.32,
+      "context_provisions": 5.77,
+      "returned_provisions": 5.77,
+      "context_chars": 6400.2,
+      "context_words": 1413.97,
+      "estimated_context_tokens": 1600.46
+    },
+    "full_structured": {
+      "recall_at_k": 0.839167,
+      "precision_at_k": 0.161177,
+      "ndcg_at_k": 0.7123,
+      "fact_coverage": 0.871667,
+      "evidence_precision": 0.15598,
+      "ranked_provisions": 8.44,
+      "context_provisions": 8.89,
+      "returned_provisions": 8.89,
+      "context_chars": 8765.95,
+      "context_words": 1934.52,
+      "estimated_context_tokens": 2191.9
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_file": "126_2020_ND-CP_455733.md",
+  "document_summary": "[126/2020/NĐ-CP | Hiệu lực: 2020-12-05] Nghị định quy định chi tiết Luật Quản lý thuế về hồ sơ khai thuế, địa điểm nộp thuế, thủ tục ấn định thuế, gia hạn nộp thuế, khoanh nợ, xóa nợ và các biện pháp cưỡng chế thuế trong lĩnh vực thuế, hải quan.",
+  "document_metadata": {
+    "source_file": "126_2020_ND-CP_455733.docx",
+    "document_id": "126/2020/NĐ-CP",
+    "title": "NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT QUẢN LÝ THUẾ",
+    "document_type": "nghi_dinh",
+    "legal_rank": 2,
+    "issued_date": "2020-10-19",
+    "effective_date": "2020-12-05",
+    "expiration_date": null,
+    "status": "active",
+    "affects_documents": [
+      {
+        "target_document_id": "83/2013/NĐ-CP",
+        "relation_types": [
+          "bai_bo"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2020-12-05",
+        "status": "active"
+      }
+    ],
+    "affected_by_documents": [],
+    "amendment_relations": [],
+    "embed_in_qdrant": true
+  }
+}

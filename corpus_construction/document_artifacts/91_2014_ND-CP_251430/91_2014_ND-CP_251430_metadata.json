@@ -1,0 +1,346 @@
+{
+  "source_file": "91_2014_ND-CP_251430.docx",
+  "document_id": "91/2014/NĐ-CP",
+  "title": "NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU TẠI CÁC NGHỊ ĐỊNH QUY ĐỊNH VỀ THUẾ",
+  "document_type": "nghi_dinh",
+  "legal_rank": 2,
+  "issued_date": "2014-10-01",
+  "effective_date": "2014-11-15",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "209/2013/NĐ-CP",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2014-11-15",
+      "status": "active"
+    },
+    {
+      "target_document_id": "65/2013/NĐ-CP",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2014-11-15",
+      "status": "active"
+    },
+    {
+      "target_document_id": "83/2013/NĐ-CP",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2014-11-15",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 2 > Khoản 1",
+      "van_ban_bi_sua": "209/2013/NĐ-CP",
+      "target_location": "Điều 3 > Khoản 2 > Điểm a",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 3 > Khoản 2 > Điểm a"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "a) Dịch vụ cấp tín dụng gồm các hình thức:\n- Cho vay;\n- Chiết khấu, tái chiết khấu công cụ chuyển nhượng và các giấy tờ có giá khác;\n- Bảo lãnh;\n- Cho thuê tài chính;\n- Phát hành thẻ tín dụng;\n- Bao thanh toán trong nước; bao thanh toán quốc tế;\n- Bán tài sản bảo đảm tiền vay, bao gồm cả trường hợp bên đi vay vốn tự bán tài sản đảm bảo theo ủy quyền của bên cho vay để trả nợ khoản vay có đảm bảo;\n- Cung cấp thông tin tín dụng theo quy định của Luật Ngân hàng nhà nước;\n- Hình thức cấp tín dụng khác theo quy định của pháp luật",
+      "replacement_text": "a) Dịch vụ cấp tín dụng gồm các hình thức:\n- Cho vay;\n- Chiết khấu, tái chiết khấu công cụ chuyển nhượng và các giấy tờ có giá khác;\n- Bảo lãnh;\n- Cho thuê tài chính;\n- Phát hành thẻ tín dụng;\n- Bao thanh toán trong nước; bao thanh toán quốc tế;\n- Bán tài sản bảo đảm tiền vay, bao gồm cả trường hợp bên đi vay vốn tự bán tài sản đảm bảo theo ủy quyền của bên cho vay để trả nợ khoản vay có đảm bảo;\n- Cung cấp thông tin tín dụng theo quy định của Luật Ngân hàng nhà nước;\n- Hình thức cấp tín dụng khác theo quy định của pháp luật",
+      "amendment_source_section": "### Khoản 1. Sửa đổi, bổ sung Điểm a Khoản 2 Điều 3 như sau:\n“a) Dịch vụ cấp tín dụng gồm các hình thức:\n- Cho vay;\n- Chiết khấu, tái chiết khấu công cụ chuyển nhượng và các giấy tờ có giá khác;\n- Bảo lãnh;\n- Cho thuê tài chính;\n- Phát hành thẻ tín dụng;\n- Bao thanh toán trong nước; bao thanh toán quốc tế;\n- Bán tài sản bảo đảm tiền vay, bao gồm cả trường hợp bên đi vay vốn tự bán tài sản đảm bảo theo ủy quyền của bên cho vay để trả nợ khoản vay có đảm bảo;\n- Cung cấp thông tin tín dụng theo quy định của Luật Ngân hàng nhà nước;\n- Hình thức cấp tín dụng khác theo quy định của pháp luật”.",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi, bổ sung Điểm a Khoản 2 Điều 3 như sau:",
+      "status": "active",
+      "operation_id": "d7d4e3cf2fde5ca383442a92e82148e49f80b42ad0dd2907a72694fa0c1ca796"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 2 > Khoản 2",
+      "van_ban_bi_sua": "209/2013/NĐ-CP",
+      "target_location": "Điều 9 > Khoản 2 > Điểm b",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 9 > Khoản 2 > Điểm b"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "b) Có chứng từ thanh toán không dùng tiền mặt đối với hàng hóa, dịch vụ mua vào, trừ trường hợp tổng giá trị hàng hóa, dịch vụ mua vào từng lần có giá trị dưới 20 triệu đồng.\nĐối với hàng hóa, dịch vụ mua trả chậm, trả góp có giá trị từ 20 triệu đồng trở lên, cơ sở kinh doanh căn cứ vào hợp đồng mua hàng hóa, dịch vụ, hóa đơn giá trị gia tăng và chứng từ thanh toán không dùng tiền mặt của hàng hóa dịch vụ mua trả chậm, trả góp để kê khai, khấu trừ thuế giá trị gia tăng đầu vào. Trường hợp chưa có chứng từ thanh toán không dùng tiền mặt do chưa đến thời điểm thanh toán theo hợp đồng thì cơ sở kinh doanh vẫn được kê khai, khấu trừ thuế giá trị gia tăng đầu vào.\nHàng hóa, dịch vụ mua vào theo phương thức bù trừ giữa giá trị hàng hóa, dịch vụ mua vào với giá trị hàng hóa, dịch vụ bán ra cũng được coi là thanh toán không dùng tiền mặt.",
+      "replacement_text": "b) Có chứng từ thanh toán không dùng tiền mặt đối với hàng hóa, dịch vụ mua vào, trừ trường hợp tổng giá trị hàng hóa, dịch vụ mua vào từng lần có giá trị dưới 20 triệu đồng.\nĐối với hàng hóa, dịch vụ mua trả chậm, trả góp có giá trị từ 20 triệu đồng trở lên, cơ sở kinh doanh căn cứ vào hợp đồng mua hàng hóa, dịch vụ, hóa đơn giá trị gia tăng và chứng từ thanh toán không dùng tiền mặt của hàng hóa dịch vụ mua trả chậm, trả góp để kê khai, khấu trừ thuế giá trị gia tăng đầu vào. Trường hợp chưa có chứng từ thanh toán không dùng tiền mặt do chưa đến thời điểm thanh toán theo hợp đồng thì cơ sở kinh doanh vẫn được kê khai, khấu trừ thuế giá trị gia tăng đầu vào.\nHàng hóa, dịch vụ mua vào theo phương thức bù trừ giữa giá trị hàng hóa, dịch vụ mua vào với giá trị hàng hóa, dịch vụ bán ra cũng được coi là thanh toán không dùng tiền mặt.",
+      "amendment_source_section": "### Khoản 2. Sửa đổi Điểm b Khoản 2 Điều 9 như sau:\n“b) Có chứng từ thanh toán không dùng tiền mặt đối với hàng hóa, dịch vụ mua vào, trừ trường hợp tổng giá trị hàng hóa, dịch vụ mua vào từng lần có giá trị dưới 20 triệu đồng.\nĐối với hàng hóa, dịch vụ mua trả chậm, trả góp có giá trị từ 20 triệu đồng trở lên, cơ sở kinh doanh căn cứ vào hợp đồng mua hàng hóa, dịch vụ, hóa đơn giá trị gia tăng và chứng từ thanh toán không dùng tiền mặt của hàng hóa dịch vụ mua trả chậm, trả góp để kê khai, khấu trừ thuế giá trị gia tăng đầu vào. Trường hợp chưa có chứng từ thanh toán không dùng tiền mặt do chưa đến thời điểm thanh toán theo hợp đồng thì cơ sở kinh doanh vẫn được kê khai, khấu trừ thuế giá trị gia tăng đầu vào.\nHàng hóa, dịch vụ mua vào theo phương thức bù trừ giữa giá trị hàng hóa, dịch vụ mua vào với giá trị hàng hóa, dịch vụ bán ra cũng được coi là thanh toán không dùng tiền mặt.”",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 2. Sửa đổi Điểm b Khoản 2 Điều 9 như sau:",
+      "status": "active",
+      "operation_id": "f75200774fc64e242869404b445b26e61d32039e6ed453a90624ee51e5aafc56"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 2 > Khoản 3",
+      "van_ban_bi_sua": "209/2013/NĐ-CP",
+      "target_location": "Điều 9 > Khoản 1 > Điểm c",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 9 > Khoản 1 > Điểm c"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "c) Thuế giá trị gia tăng đầu vào của tài sản cố định, máy móc, thiết bị, kể cả thuế giá trị gia tăng đầu vào của hoạt động đi thuê những tài sản, máy móc, thiết bị này, trong các trường hợp sau đây không được khấu trừ mà tính vào nguyên giá của tài sản cố định hoặc chi phí được trừ theo quy định của Luật Thuế thu nhập doanh nghiệp và các văn bản hướng dẫn thi hành: Tài sản cố định chuyên dùng phục vụ sản xuất vũ khí, khí tài phục vụ quốc phòng, an ninh; tài sản cố định, máy móc, thiết bị của các tổ chức tín dụng, doanh nghiệp kinh doanh tái bảo hiểm, bảo hiểm nhân thọ, kinh doanh chứng khoán, cơ sở khám, chữa bệnh, cơ sở đào tạo; tàu bay dân dụng, du thuyền không sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch, khách sạn.\nĐối với tài sản cố định là ô tô chở người từ 9 chỗ ngồi trở xuống (trừ: ô tô sử dụng cho kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch, khách sạn; ô tô dùng để làm mẫu và lái thử cho kinh doanh ô tô) có trị giá vượt trên 1,6 tỷ đồng thì số thuế giá trị gia tăng đầu vào tương ứng với phần trị giá vượt trên 1,6 tỷ đồng không được khấu trừ",
+      "replacement_text": "c) Thuế giá trị gia tăng đầu vào của tài sản cố định, máy móc, thiết bị, kể cả thuế giá trị gia tăng đầu vào của hoạt động đi thuê những tài sản, máy móc, thiết bị này, trong các trường hợp sau đây không được khấu trừ mà tính vào nguyên giá của tài sản cố định hoặc chi phí được trừ theo quy định của Luật Thuế thu nhập doanh nghiệp và các văn bản hướng dẫn thi hành: Tài sản cố định chuyên dùng phục vụ sản xuất vũ khí, khí tài phục vụ quốc phòng, an ninh; tài sản cố định, máy móc, thiết bị của các tổ chức tín dụng, doanh nghiệp kinh doanh tái bảo hiểm, bảo hiểm nhân thọ, kinh doanh chứng khoán, cơ sở khám, chữa bệnh, cơ sở đào tạo; tàu bay dân dụng, du thuyền không sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch, khách sạn.\nĐối với tài sản cố định là ô tô chở người từ 9 chỗ ngồi trở xuống (trừ: ô tô sử dụng cho kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch, khách sạn; ô tô dùng để làm mẫu và lái thử cho kinh doanh ô tô) có trị giá vượt trên 1,6 tỷ đồng thì số thuế giá trị gia tăng đầu vào tương ứng với phần trị giá vượt trên 1,6 tỷ đồng không được khấu trừ",
+      "amendment_source_section": "### Khoản 3. Sửa đổi Điểm c Khoản 1 Điều 9 như sau:\n“c) Thuế giá trị gia tăng đầu vào của tài sản cố định, máy móc, thiết bị, kể cả thuế giá trị gia tăng đầu vào của hoạt động đi thuê những tài sản, máy móc, thiết bị này, trong các trường hợp sau đây không được khấu trừ mà tính vào nguyên giá của tài sản cố định hoặc chi phí được trừ theo quy định của Luật Thuế thu nhập doanh nghiệp và các văn bản hướng dẫn thi hành: Tài sản cố định chuyên dùng phục vụ sản xuất vũ khí, khí tài phục vụ quốc phòng, an ninh; tài sản cố định, máy móc, thiết bị của các tổ chức tín dụng, doanh nghiệp kinh doanh tái bảo hiểm, bảo hiểm nhân thọ, kinh doanh chứng khoán, cơ sở khám, chữa bệnh, cơ sở đào tạo; tàu bay dân dụng, du thuyền không sử dụng cho mục đích kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch, khách sạn.\nĐối với tài sản cố định là ô tô chở người từ 9 chỗ ngồi trở xuống (trừ: ô tô sử dụng cho kinh doanh vận chuyển hàng hóa, hành khách, kinh doanh du lịch, khách sạn; ô tô dùng để làm mẫu và lái thử cho kinh doanh ô tô) có trị giá vượt trên 1,6 tỷ đồng thì số thuế giá trị gia tăng đầu vào tương ứng với phần trị giá vượt trên 1,6 tỷ đồng không được khấu trừ”.",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 3. Sửa đổi Điểm c Khoản 1 Điều 9 như sau:",
+      "status": "active",
+      "operation_id": "603fd9fd6ba35f6bd3cf7c8bc07bfda70533d84a2912e7a864b118d832d7dd80"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 3 > Khoản 1",
+      "van_ban_bi_sua": "65/2013/NĐ-CP",
+      "target_location": "Điều 3 > Khoản 2 > Điểm đ",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 3 > Khoản 2 > Điểm đ"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "đ) Các khoản lợi ích bằng tiền hoặc không bằng tiền ngoài tiền lương, tiền công do người sử dụng lao động trả mà người nộp thuế được hưởng dưới mọi hình thức:\n- Tiền nhà ở, điện, nước và các dịch vụ kèm theo (nếu có), không bao gồm khoản lợi ích về nhà ở do người sử dụng lao động xây dựng để cung cấp cho người lao động làm việc tại khu công nghiệp, nhà ở do người sử dụng lao động xây dựng tại khu kinh tế, địa bàn có điều kiện kinh tế xã hội khó khăn địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn cung cấp cho người lao động.\n- Khoản tiền phí tích lũy mua bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác, tiền tích lũy đóng góp quỹ hưu trí tự nguyện, do người sử dụng lao động mua hoặc đóng góp cho người lao động. Trước khi trả tiền bảo hiểm, tiền lương hưu cho cá nhân, doanh nghiệp bảo hiểm, công ty quản lý quỹ hưu trí tự nguyện có trách nhiệm khấu trừ thuế theo tỷ lệ 10% đối với khoản tiền phí tích lũy, tiền tích lũy đóng góp quỹ tương ứng với phần người sử dụng lao động mua hoặc đóng góp cho người lao động từ ngày 01 tháng 7 năm 2013.\n- Phí hội viên và các khoản chi dịch vụ khác phục vụ cho cá nhân theo yêu cầu, như: Chăm sóc sức khỏe, vui chơi, thể thao, giải trí, thẩm mỹ.\n- Các khoản lợi ích khác theo quy định của pháp luật.",
+      "replacement_text": "đ) Các khoản lợi ích bằng tiền hoặc không bằng tiền ngoài tiền lương, tiền công do người sử dụng lao động trả mà người nộp thuế được hưởng dưới mọi hình thức:\n- Tiền nhà ở, điện, nước và các dịch vụ kèm theo (nếu có), không bao gồm khoản lợi ích về nhà ở do người sử dụng lao động xây dựng để cung cấp cho người lao động làm việc tại khu công nghiệp, nhà ở do người sử dụng lao động xây dựng tại khu kinh tế, địa bàn có điều kiện kinh tế xã hội khó khăn địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn cung cấp cho người lao động.\n- Khoản tiền phí tích lũy mua bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác, tiền tích lũy đóng góp quỹ hưu trí tự nguyện, do người sử dụng lao động mua hoặc đóng góp cho người lao động. Trước khi trả tiền bảo hiểm, tiền lương hưu cho cá nhân, doanh nghiệp bảo hiểm, công ty quản lý quỹ hưu trí tự nguyện có trách nhiệm khấu trừ thuế theo tỷ lệ 10% đối với khoản tiền phí tích lũy, tiền tích lũy đóng góp quỹ tương ứng với phần người sử dụng lao động mua hoặc đóng góp cho người lao động từ ngày 01 tháng 7 năm 2013.\n- Phí hội viên và các khoản chi dịch vụ khác phục vụ cho cá nhân theo yêu cầu, như: Chăm sóc sức khỏe, vui chơi, thể thao, giải trí, thẩm mỹ.\n- Các khoản lợi ích khác theo quy định của pháp luật.",
+      "amendment_source_section": "### Khoản 1. Sửa đổi, bổ sung Điểm đ Khoản 2 Điều 3 như sau:\n“đ) Các khoản lợi ích bằng tiền hoặc không bằng tiền ngoài tiền lương, tiền công do người sử dụng lao động trả mà người nộp thuế được hưởng dưới mọi hình thức:\n- Tiền nhà ở, điện, nước và các dịch vụ kèm theo (nếu có), không bao gồm khoản lợi ích về nhà ở do người sử dụng lao động xây dựng để cung cấp cho người lao động làm việc tại khu công nghiệp, nhà ở do người sử dụng lao động xây dựng tại khu kinh tế, địa bàn có điều kiện kinh tế xã hội khó khăn địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn cung cấp cho người lao động.\n- Khoản tiền phí tích lũy mua bảo hiểm nhân thọ, bảo hiểm không bắt buộc khác, tiền tích lũy đóng góp quỹ hưu trí tự nguyện, do người sử dụng lao động mua hoặc đóng góp cho người lao động. Trước khi trả tiền bảo hiểm, tiền lương hưu cho cá nhân, doanh nghiệp bảo hiểm, công ty quản lý quỹ hưu trí tự nguyện có trách nhiệm khấu trừ thuế theo tỷ lệ 10% đối với khoản tiền phí tích lũy, tiền tích lũy đóng góp quỹ tương ứng với phần người sử dụng lao động mua hoặc đóng góp cho người lao động từ ngày 01 tháng 7 năm 2013.\n- Phí hội viên và các khoản chi dịch vụ khác phục vụ cho cá nhân theo yêu cầu, như: Chăm sóc sức khỏe, vui chơi, thể thao, giải trí, thẩm mỹ.\n- Các khoản lợi ích khác theo quy định của pháp luật.”",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi, bổ sung Điểm đ Khoản 2 Điều 3 như sau:",
+      "status": "active",
+      "operation_id": "540613dcd07c68d3dc8b38585aca86870ab2f2e3216cfd15b2abe6748a33368c"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 3 > Khoản 2",
+      "van_ban_bi_sua": "65/2013/NĐ-CP",
+      "target_location": "Điều 30 > Khoản 5 > Điểm b",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 30 > Khoản 5 > Điểm b"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "b) Cá nhân, hộ kinh doanh có thu nhập từ kinh doanh đã thực hiện nộp thuế theo quy định tại Khoản 1 Điều 10 Nghị định này",
+      "replacement_text": "b) Cá nhân, hộ kinh doanh có thu nhập từ kinh doanh đã thực hiện nộp thuế theo quy định tại Khoản 1 Điều 10 Nghị định này",
+      "amendment_source_section": "### Khoản 2. Sửa đổi Điểm b Khoản 5 Điều 30 như sau:\n“b) Cá nhân, hộ kinh doanh có thu nhập từ kinh doanh đã thực hiện nộp thuế theo quy định tại Khoản 1 Điều 10 Nghị định này”.",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 2. Sửa đổi Điểm b Khoản 5 Điều 30 như sau:",
+      "status": "active",
+      "operation_id": "97897176946e004de918433d6f252239cf6d2c26f76bdee8a3b3dc3de2219de6"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 3 > Khoản 3",
+      "van_ban_bi_sua": "65/2013/NĐ-CP",
+      "target_location": "Điều 30 > Khoản 5 > Điểm e",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 30 > Khoản 5 > Điểm e"
+      ],
+      "loai_thay_doi": "bo_sung",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "e) Cá nhân là đại lý bảo hiểm, đại lý xổ số, bán hàng đa cấp đã được tổ chức trả thu nhập khấu trừ thuế thu nhập cá nhân.",
+      "replacement_text": "e) Cá nhân là đại lý bảo hiểm, đại lý xổ số, bán hàng đa cấp đã được tổ chức trả thu nhập khấu trừ thuế thu nhập cá nhân.",
+      "amendment_source_section": "### Khoản 3. Bổ sung Điểm e Khoản 5 Điều 30 như sau:\n“e) Cá nhân là đại lý bảo hiểm, đại lý xổ số, bán hàng đa cấp đã được tổ chức trả thu nhập khấu trừ thuế thu nhập cá nhân.”.",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 3. Bổ sung Điểm e Khoản 5 Điều 30 như sau:",
+      "status": "active",
+      "operation_id": "1d62fbc557884b5026b04da28d8777617e2eee94d65fc99c65c307f756759594"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 4 > Khoản 1",
+      "van_ban_bi_sua": "83/2013/NĐ-CP",
+      "target_location": "Điều 5 > Khoản 5",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 5 > Khoản 5"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "5. Trường hợp người nộp thuế tạm ngừng hoạt động kinh doanh đã có văn bản đề nghị gửi cơ quan đăng ký kinh doanh nơi người nộp thuế đã đăng ký thì không phải nộp hồ sơ khai thuế trong thời gian tạm ngừng hoạt động kinh doanh. Trường hợp người nộp thuế tiếp tục hoạt động kinh doanh trở lại sau thời gian tạm ngừng và đã có văn bản thông báo gửi cơ quan đăng ký kinh doanh nơi người nộp thuế đã đăng ký thì thực hiện nộp hồ sơ khai thuế theo quy định. Cơ quan đăng ký kinh doanh nơi doanh nghiệp, hộ kinh doanh đã đăng ký có trách nhiệm thông báo cho cơ quan thuế biết về thông tin doanh nghiệp, hộ kinh doanh tạm ngừng kinh doanh, tiếp tục hoạt động kinh doanh trở lại.",
+      "replacement_text": "5. Trường hợp người nộp thuế tạm ngừng hoạt động kinh doanh đã có văn bản đề nghị gửi cơ quan đăng ký kinh doanh nơi người nộp thuế đã đăng ký thì không phải nộp hồ sơ khai thuế trong thời gian tạm ngừng hoạt động kinh doanh. Trường hợp người nộp thuế tiếp tục hoạt động kinh doanh trở lại sau thời gian tạm ngừng và đã có văn bản thông báo gửi cơ quan đăng ký kinh doanh nơi người nộp thuế đã đăng ký thì thực hiện nộp hồ sơ khai thuế theo quy định. Cơ quan đăng ký kinh doanh nơi doanh nghiệp, hộ kinh doanh đã đăng ký có trách nhiệm thông báo cho cơ quan thuế biết về thông tin doanh nghiệp, hộ kinh doanh tạm ngừng kinh doanh, tiếp tục hoạt động kinh doanh trở lại.",
+      "amendment_source_section": "### Khoản 1. Sửa đổi Khoản 5 Điều 5 như sau:\n“5. Trường hợp người nộp thuế tạm ngừng hoạt động kinh doanh đã có văn bản đề nghị gửi cơ quan đăng ký kinh doanh nơi người nộp thuế đã đăng ký thì không phải nộp hồ sơ khai thuế trong thời gian tạm ngừng hoạt động kinh doanh. Trường hợp người nộp thuế tiếp tục hoạt động kinh doanh trở lại sau thời gian tạm ngừng và đã có văn bản thông báo gửi cơ quan đăng ký kinh doanh nơi người nộp thuế đã đăng ký thì thực hiện nộp hồ sơ khai thuế theo quy định. Cơ quan đăng ký kinh doanh nơi doanh nghiệp, hộ kinh doanh đã đăng ký có trách nhiệm thông báo cho cơ quan thuế biết về thông tin doanh nghiệp, hộ kinh doanh tạm ngừng kinh doanh, tiếp tục hoạt động kinh doanh trở lại.”",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 1. Sửa đổi Khoản 5 Điều 5 như sau:",
+      "status": "active",
+      "operation_id": "67970d9afd85f9283b0486ea6ea586386767cedb3c9244897311644e51bb368a"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 4 > Khoản 2",
+      "van_ban_bi_sua": "83/2013/NĐ-CP",
+      "target_location": "Điều 7 > Khoản 3a",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 7 > Khoản 3a"
+      ],
+      "loai_thay_doi": "bo_sung",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "3a. Đối với doanh nghiệp có quy mô đầu tư lớn, dự án trọng điểm quốc gia dự án đầu tư ưu tiên được Thủ tướng Chính phủ chấp thuận trước khi cấp phép đầu tư, giao Bộ Tài chính xem xét, công nhận doanh nghiệp ưu tiên khi chưa đáp ứng điều kiện về 2 năm hoạt động để đánh giá tuân thủ pháp luật và đánh giá độ tin cậy của cơ quan hải quan. Bộ Tài chính thực hiện công nhận doanh nghiệp ưu tiên và áp dụng biện pháp ưu tiên theo quy định tại Khoản 2 Điều này khi doanh nghiệp thực hiện xây dựng cơ sở vật chất của dự án",
+      "replacement_text": "3a. Đối với doanh nghiệp có quy mô đầu tư lớn, dự án trọng điểm quốc gia dự án đầu tư ưu tiên được Thủ tướng Chính phủ chấp thuận trước khi cấp phép đầu tư, giao Bộ Tài chính xem xét, công nhận doanh nghiệp ưu tiên khi chưa đáp ứng điều kiện về 2 năm hoạt động để đánh giá tuân thủ pháp luật và đánh giá độ tin cậy của cơ quan hải quan. Bộ Tài chính thực hiện công nhận doanh nghiệp ưu tiên và áp dụng biện pháp ưu tiên theo quy định tại Khoản 2 Điều này khi doanh nghiệp thực hiện xây dựng cơ sở vật chất của dự án",
+      "amendment_source_section": "### Khoản 2. Bổ sung Khoản 3a Điều 7 như sau:\n“3a. Đối với doanh nghiệp có quy mô đầu tư lớn, dự án trọng điểm quốc gia dự án đầu tư ưu tiên được Thủ tướng Chính phủ chấp thuận trước khi cấp phép đầu tư, giao Bộ Tài chính xem xét, công nhận doanh nghiệp ưu tiên khi chưa đáp ứng điều kiện về 2 năm hoạt động để đánh giá tuân thủ pháp luật và đánh giá độ tin cậy của cơ quan hải quan. Bộ Tài chính thực hiện công nhận doanh nghiệp ưu tiên và áp dụng biện pháp ưu tiên theo quy định tại Khoản 2 Điều này khi doanh nghiệp thực hiện xây dựng cơ sở vật chất của dự án”.",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 2. Bổ sung Khoản 3a Điều 7 như sau:",
+      "status": "active",
+      "operation_id": "a0dab5e3a28b0c999f70f53b4f8bb0dcf5967c6b34f4b937a57bd1a7dd0217b1"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 4 > Khoản 3",
+      "van_ban_bi_sua": "83/2013/NĐ-CP",
+      "target_location": "Điều 11 > Khoản 1 > Điểm b",
+      "target_level": "diem",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 11 > Khoản 1 > Điểm b"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "b) Khai theo quý áp dụng đối với người nộp thuế đáp ứng điều kiện có tổng doanh thu của hàng hóa, dịch vụ của năm trước liền kề từ 50 tỷ đồng trở xuống.",
+      "replacement_text": "b) Khai theo quý áp dụng đối với người nộp thuế đáp ứng điều kiện có tổng doanh thu của hàng hóa, dịch vụ của năm trước liền kề từ 50 tỷ đồng trở xuống.",
+      "amendment_source_section": "### Khoản 3. Sửa đổi Điểm b Khoản 1 Điều 11 như sau:\n“b) Khai theo quý áp dụng đối với người nộp thuế đáp ứng điều kiện có tổng doanh thu của hàng hóa, dịch vụ của năm trước liền kề từ 50 tỷ đồng trở xuống.”",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 3. Sửa đổi Điểm b Khoản 1 Điều 11 như sau:",
+      "status": "active",
+      "operation_id": "921008bb1ae159f805ee948bbac95a31e04f4a9a486260a767b8770eefa28eef"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 4 > Khoản 4",
+      "van_ban_bi_sua": "83/2013/NĐ-CP",
+      "target_location": "Điều 12 > Khoản 1",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 12 > Khoản 1"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "1. Khai thuế thu nhập doanh nghiệp là khai quyết toán năm hoặc khai quyết toán thuế đến thời điểm doanh nghiệp chia, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp (không bao gồm các trường hợp chuyển đổi mà bên tiếp nhận kế thừa toàn bộ nghĩa vụ về thuế của doanh nghiệp trước chuyển đổi), giải thể, chấm dứt hoạt động, trừ trường hợp khai theo từng lần phát sinh đối với thuế thu nhập doanh nghiệp từ hoạt động chuyển nhượng bất động sản, hoạt động kinh doanh khác theo quy định của pháp luật về thuế thu nhập doanh nghiệp.\nCơ quan thuế có trách nhiệm kiểm tra quyết toán thuế của doanh nghiệp trong thời hạn 15 (mười lăm) ngày làm việc, kể từ ngày nhận được các tài liệu, hồ sơ liên quan đến việc quyết toán nghĩa vụ thuế từ người nộp thuế trong trường hợp chia, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp, giải thể, chấm dứt hoạt động. Riêng trường hợp doanh nghiệp giải thể, chấm dứt hoạt động, Bộ Tài chính hướng dẫn cơ chế cơ quan thuế đặt hàng và sử dụng kết quả, của các công ty kiểm toán độc lập, tổ chức kinh doanh dịch vụ làm thủ tục về thuế để thực hiện kiểm tra quyết toán thuế của doanh nghiệp nhanh chóng, thuận lợi.",
+      "replacement_text": "1. Khai thuế thu nhập doanh nghiệp là khai quyết toán năm hoặc khai quyết toán thuế đến thời điểm doanh nghiệp chia, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp (không bao gồm các trường hợp chuyển đổi mà bên tiếp nhận kế thừa toàn bộ nghĩa vụ về thuế của doanh nghiệp trước chuyển đổi), giải thể, chấm dứt hoạt động, trừ trường hợp khai theo từng lần phát sinh đối với thuế thu nhập doanh nghiệp từ hoạt động chuyển nhượng bất động sản, hoạt động kinh doanh khác theo quy định của pháp luật về thuế thu nhập doanh nghiệp.\nCơ quan thuế có trách nhiệm kiểm tra quyết toán thuế của doanh nghiệp trong thời hạn 15 (mười lăm) ngày làm việc, kể từ ngày nhận được các tài liệu, hồ sơ liên quan đến việc quyết toán nghĩa vụ thuế từ người nộp thuế trong trường hợp chia, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp, giải thể, chấm dứt hoạt động. Riêng trường hợp doanh nghiệp giải thể, chấm dứt hoạt động, Bộ Tài chính hướng dẫn cơ chế cơ quan thuế đặt hàng và sử dụng kết quả, của các công ty kiểm toán độc lập, tổ chức kinh doanh dịch vụ làm thủ tục về thuế để thực hiện kiểm tra quyết toán thuế của doanh nghiệp nhanh chóng, thuận lợi.",
+      "amendment_source_section": "### Khoản 4. Sửa đổi Khoản 1 Điều 12 như sau:\n“1. Khai thuế thu nhập doanh nghiệp là khai quyết toán năm hoặc khai quyết toán thuế đến thời điểm doanh nghiệp chia, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp (không bao gồm các trường hợp chuyển đổi mà bên tiếp nhận kế thừa toàn bộ nghĩa vụ về thuế của doanh nghiệp trước chuyển đổi), giải thể, chấm dứt hoạt động, trừ trường hợp khai theo từng lần phát sinh đối với thuế thu nhập doanh nghiệp từ hoạt động chuyển nhượng bất động sản, hoạt động kinh doanh khác theo quy định của pháp luật về thuế thu nhập doanh nghiệp.\nCơ quan thuế có trách nhiệm kiểm tra quyết toán thuế của doanh nghiệp trong thời hạn 15 (mười lăm) ngày làm việc, kể từ ngày nhận được các tài liệu, hồ sơ liên quan đến việc quyết toán nghĩa vụ thuế từ người nộp thuế trong trường hợp chia, hợp nhất, sáp nhập, chuyển đổi loại hình doanh nghiệp, giải thể, chấm dứt hoạt động. Riêng trường hợp doanh nghiệp giải thể, chấm dứt hoạt động, Bộ Tài chính hướng dẫn cơ chế cơ quan thuế đặt hàng và sử dụng kết quả, của các công ty kiểm toán độc lập, tổ chức kinh doanh dịch vụ làm thủ tục về thuế để thực hiện kiểm tra quyết toán thuế của doanh nghiệp nhanh chóng, thuận lợi.”",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 4. Sửa đổi Khoản 1 Điều 12 như sau:",
+      "status": "active",
+      "operation_id": "751b672164fc3537df503b444d650cb3d79c8dbfc591a03d06b3ac17f1f2cfb8"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 4 > Khoản 5",
+      "van_ban_bi_sua": "83/2013/NĐ-CP",
+      "target_location": "Điều 12 > Khoản 2",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 12 > Khoản 2"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "2. Hồ sơ khai thuế thu nhập doanh nghiệp:\na) Hồ sơ khai quyết toán thuế thu nhập doanh nghiệp bao gồm:\n- Tờ khai quyết toán thuế thu nhập doanh nghiệp;\n- Báo cáo tài chính năm hoặc báo cáo tài chính đến thời điểm doanh nghiệp chia, tách, hợp nhất, sáp nhập, chuyển đổi hình thức sở hữu, giải thể, chấm dứt hoạt động;\nb) Hồ sơ khai thuế thu nhập doanh nghiệp từ chuyển nhượng bất động sản là tờ khai thuế thu nhập doanh nghiệp về chuyển nhượng bất động sản;\nc) Hồ sơ khai thuế thu nhập doanh nghiệp theo từng lần phát sinh là tờ khai thuế thu nhập doanh nghiệp.",
+      "replacement_text": "2. Hồ sơ khai thuế thu nhập doanh nghiệp:\na) Hồ sơ khai quyết toán thuế thu nhập doanh nghiệp bao gồm:\n- Tờ khai quyết toán thuế thu nhập doanh nghiệp;\n- Báo cáo tài chính năm hoặc báo cáo tài chính đến thời điểm doanh nghiệp chia, tách, hợp nhất, sáp nhập, chuyển đổi hình thức sở hữu, giải thể, chấm dứt hoạt động;\nb) Hồ sơ khai thuế thu nhập doanh nghiệp từ chuyển nhượng bất động sản là tờ khai thuế thu nhập doanh nghiệp về chuyển nhượng bất động sản;\nc) Hồ sơ khai thuế thu nhập doanh nghiệp theo từng lần phát sinh là tờ khai thuế thu nhập doanh nghiệp.",
+      "amendment_source_section": "### Khoản 5. Sửa đổi Khoản 2 Điều 12 như sau:\n“2. Hồ sơ khai thuế thu nhập doanh nghiệp:\na) Hồ sơ khai quyết toán thuế thu nhập doanh nghiệp bao gồm:\n- Tờ khai quyết toán thuế thu nhập doanh nghiệp;\n- Báo cáo tài chính năm hoặc báo cáo tài chính đến thời điểm doanh nghiệp chia, tách, hợp nhất, sáp nhập, chuyển đổi hình thức sở hữu, giải thể, chấm dứt hoạt động;\nb) Hồ sơ khai thuế thu nhập doanh nghiệp từ chuyển nhượng bất động sản là tờ khai thuế thu nhập doanh nghiệp về chuyển nhượng bất động sản;\nc) Hồ sơ khai thuế thu nhập doanh nghiệp theo từng lần phát sinh là tờ khai thuế thu nhập doanh nghiệp.”",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 5. Sửa đổi Khoản 2 Điều 12 như sau:",
+      "status": "active",
+      "operation_id": "c8e5ecf22cb276ccaf0f5203420f382325b50866754c700a04577ef281fb3b93"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 4 > Khoản 6",
+      "van_ban_bi_sua": "83/2013/NĐ-CP",
+      "target_location": "Điều 26 > Khoản 1a",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 26 > Khoản 1a"
+      ],
+      "loai_thay_doi": "bo_sung",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "1a. Căn cứ kết quả sản xuất, kinh doanh, người nộp thuế thực hiện tạm nộp số thuế thu nhập doanh nghiệp của quý chậm nhất vào ngày thứ ba mươi của quý tiếp theo quý phát sinh nghĩa vụ thuế.\nĐối với những doanh nghiệp phải lập báo cáo tài chính quý theo quy định của pháp luật thì căn cứ vào báo cáo tài chính quý và các quy định của pháp luật về thuế để xác định số thuế thu nhập doanh nghiệp tạm nộp hàng quý.\nĐối với những doanh nghiệp không phải lập báo cáo tài chính quý thì doanh nghiệp căn cứ vào số thuế thu nhập doanh nghiệp của năm trước và dự kiến kết quả sản xuất kinh doanh trong năm để xác định số thuế thu nhập doanh nghiệp tạm nộp hàng quý.\nTrường hợp tổng số bốn lần tạm nộp thấp hơn từ 20% trở lên so với số thuế thu nhập doanh nghiệp phải nộp theo quyết toán thì doanh nghiệp phải nộp lãi chậm nộp đối với phần chênh lệch từ 20% trở lên giữa số tạm nộp với số quyết toán tính từ ngày tiếp sau ngày cuối cùng của thời hạn nộp thuế quý bốn của doanh nghiệp đến ngày thực nộp số thuế còn thiếu so với số quyết toán.",
+      "replacement_text": "1a. Căn cứ kết quả sản xuất, kinh doanh, người nộp thuế thực hiện tạm nộp số thuế thu nhập doanh nghiệp của quý chậm nhất vào ngày thứ ba mươi của quý tiếp theo quý phát sinh nghĩa vụ thuế.\nĐối với những doanh nghiệp phải lập báo cáo tài chính quý theo quy định của pháp luật thì căn cứ vào báo cáo tài chính quý và các quy định của pháp luật về thuế để xác định số thuế thu nhập doanh nghiệp tạm nộp hàng quý.\nĐối với những doanh nghiệp không phải lập báo cáo tài chính quý thì doanh nghiệp căn cứ vào số thuế thu nhập doanh nghiệp của năm trước và dự kiến kết quả sản xuất kinh doanh trong năm để xác định số thuế thu nhập doanh nghiệp tạm nộp hàng quý.\nTrường hợp tổng số bốn lần tạm nộp thấp hơn từ 20% trở lên so với số thuế thu nhập doanh nghiệp phải nộp theo quyết toán thì doanh nghiệp phải nộp lãi chậm nộp đối với phần chênh lệch từ 20% trở lên giữa số tạm nộp với số quyết toán tính từ ngày tiếp sau ngày cuối cùng của thời hạn nộp thuế quý bốn của doanh nghiệp đến ngày thực nộp số thuế còn thiếu so với số quyết toán.",
+      "amendment_source_section": "### Khoản 6. Bổ sung Khoản 1a Điều 26 như sau:\n“1a. Căn cứ kết quả sản xuất, kinh doanh, người nộp thuế thực hiện tạm nộp số thuế thu nhập doanh nghiệp của quý chậm nhất vào ngày thứ ba mươi của quý tiếp theo quý phát sinh nghĩa vụ thuế.\nĐối với những doanh nghiệp phải lập báo cáo tài chính quý theo quy định của pháp luật thì căn cứ vào báo cáo tài chính quý và các quy định của pháp luật về thuế để xác định số thuế thu nhập doanh nghiệp tạm nộp hàng quý.\nĐối với những doanh nghiệp không phải lập báo cáo tài chính quý thì doanh nghiệp căn cứ vào số thuế thu nhập doanh nghiệp của năm trước và dự kiến kết quả sản xuất kinh doanh trong năm để xác định số thuế thu nhập doanh nghiệp tạm nộp hàng quý.\nTrường hợp tổng số bốn lần tạm nộp thấp hơn từ 20% trở lên so với số thuế thu nhập doanh nghiệp phải nộp theo quyết toán thì doanh nghiệp phải nộp lãi chậm nộp đối với phần chênh lệch từ 20% trở lên giữa số tạm nộp với số quyết toán tính từ ngày tiếp sau ngày cuối cùng của thời hạn nộp thuế quý bốn của doanh nghiệp đến ngày thực nộp số thuế còn thiếu so với số quyết toán.”",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 6. Bổ sung Khoản 1a Điều 26 như sau:",
+      "status": "active",
+      "operation_id": "c190b140082e2cfe1d17cdfb727e96d4785775f9bd0d1ca92b23fb039389e9b3"
+    },
+    {
+      "van_ban_sua": "91/2014/NĐ-CP",
+      "dieu_khoan_sua": "Điều 4 > Khoản 7",
+      "van_ban_bi_sua": "83/2013/NĐ-CP",
+      "target_location": "Điều 31 > Khoản 3",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 31 > Khoản 3"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "3. Thời gian gia hạn nộp thuế:\na) Thời gian gia hạn nộp thuế tối đa không quá 02 (hai) năm, kể từ ngày hết thời hạn nộp thuế đối với trường hợp quy định tại các Điểm a, c Khoản 1 Điều này.\nSố thuế được gia hạn đối với trường hợp quy định tại Điểm c Khoản 1 Điều này không vượt quá số tiền ngân sách nhà nước còn nợ.\nb) Thời gian gia hạn nộp thuế tối đa không quá 01 năm, kể từ ngày hết thời hạn nộp thuế đối với trường hợp quy định tại các Điểm b, d Khoản 1 Điều này.",
+      "replacement_text": "3. Thời gian gia hạn nộp thuế:\na) Thời gian gia hạn nộp thuế tối đa không quá 02 (hai) năm, kể từ ngày hết thời hạn nộp thuế đối với trường hợp quy định tại các Điểm a, c Khoản 1 Điều này.\nSố thuế được gia hạn đối với trường hợp quy định tại Điểm c Khoản 1 Điều này không vượt quá số tiền ngân sách nhà nước còn nợ.\nb) Thời gian gia hạn nộp thuế tối đa không quá 01 năm, kể từ ngày hết thời hạn nộp thuế đối với trường hợp quy định tại các Điểm b, d Khoản 1 Điều này.",
+      "amendment_source_section": "### Khoản 7. Sửa đổi Khoản 3 Điều 31 như sau:\n“3. Thời gian gia hạn nộp thuế:\na) Thời gian gia hạn nộp thuế tối đa không quá 02 (hai) năm, kể từ ngày hết thời hạn nộp thuế đối với trường hợp quy định tại các Điểm a, c Khoản 1 Điều này.\nSố thuế được gia hạn đối với trường hợp quy định tại Điểm c Khoản 1 Điều này không vượt quá số tiền ngân sách nhà nước còn nợ.\nb) Thời gian gia hạn nộp thuế tối đa không quá 01 năm, kể từ ngày hết thời hạn nộp thuế đối với trường hợp quy định tại các Điểm b, d Khoản 1 Điều này.”",
+      "effective_date": "2014-11-15",
+      "can_cu_trich_doan": "### Khoản 7. Sửa đổi Khoản 3 Điều 31 như sau:",
+      "status": "active",
+      "operation_id": "875a5dd4d4f4bd4f7a77fa4722daf21cb50a550cad634c6053a4f93f1a0fe302"
+    }
+  ],
+  "embed_in_qdrant": false
+}

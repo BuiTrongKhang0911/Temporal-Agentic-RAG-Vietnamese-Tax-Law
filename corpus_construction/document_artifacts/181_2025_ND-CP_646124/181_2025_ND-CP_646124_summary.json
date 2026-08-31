@@ -1,0 +1,29 @@
+{
+  "source_file": "181_2025_ND-CP_646124.md",
+  "document_summary": "Văn bản: NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT THUẾ GIÁ TRỊ GIA TĂNG. Số hiệu: 181/2025/NĐ-CP.",
+  "document_metadata": {
+    "source_file": "181_2025_ND-CP_646124.docx",
+    "document_id": "181/2025/NĐ-CP",
+    "title": "NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT THUẾ GIÁ TRỊ GIA TĂNG",
+    "document_type": "nghi_dinh",
+    "legal_rank": 2,
+    "issued_date": "2025-07-01",
+    "effective_date": "2025-07-01",
+    "expiration_date": null,
+    "status": "active",
+    "affects_documents": [
+      {
+        "target_document_id": "209/2013/NĐ-CP",
+        "relation_types": [
+          "thay_the"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2025-07-01",
+        "status": "active"
+      }
+    ],
+    "affected_by_documents": [],
+    "amendment_relations": [],
+    "embed_in_qdrant": true
+  }
+}

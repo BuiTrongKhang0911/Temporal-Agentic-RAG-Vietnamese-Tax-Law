@@ -1,0 +1,59 @@
+{
+  "source_file": "31_2024_QH15_523642.docx",
+  "document_id": "31/2024/QH15",
+  "title": "LUẬT ĐẤT ĐAI",
+  "document_type": "luat",
+  "legal_rank": 3,
+  "issued_date": "2024-01-18",
+  "effective_date": "2025-01-01",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "04/2007/QH12",
+      "relation_types": [
+        "sua_doi",
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2025-01-01",
+      "status": "active"
+    },
+    {
+      "target_document_id": "45/2013/QH13",
+      "relation_types": [
+        "bai_bo"
+      ],
+      "impact_scope": "whole_document",
+      "effective_date": "2025-01-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "31/2024/QH15",
+      "dieu_khoan_sua": "Điều 247",
+      "van_ban_bi_sua": "04/2007/QH12",
+      "target_location": "Điều 14 > Khoản 1",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 14 > Khoản 1"
+      ],
+      "loai_thay_doi": "sua_doi",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "1. Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định là giá chuyển nhượng từng lần; trường hợp chuyển nhượng quyền sử dụng đất thì thu nhập chịu thuế tính theo giá đất trong bảng giá đất.",
+      "replacement_text": "1. Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định là giá chuyển nhượng từng lần; trường hợp chuyển nhượng quyền sử dụng đất thì thu nhập chịu thuế tính theo giá đất trong bảng giá đất.",
+      "amendment_source_section": "## Điều 247. Sửa đổi, bổ sung khoản 1 Điều 14 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13 và Luật số 71/2014/QH13\nSửa đổi, bổ sung khoản 1 Điều 14 như sau:\n“1. Thu nhập chịu thuế từ chuyển nhượng bất động sản được xác định là giá chuyển nhượng từng lần; trường hợp chuyển nhượng quyền sử dụng đất thì thu nhập chịu thuế tính theo giá đất trong bảng giá đất.”.",
+      "effective_date": "2025-01-01",
+      "can_cu_trich_doan": "## Điều 247. Sửa đổi, bổ sung khoản 1 Điều 14 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13 và Luật số 71/2014/QH13",
+      "status": "active",
+      "operation_id": "4dab2b33b00d02c1a0f87a72349836abc6897db627983054ab0462eea9991abf"
+    }
+  ],
+  "embed_in_qdrant": false
+}

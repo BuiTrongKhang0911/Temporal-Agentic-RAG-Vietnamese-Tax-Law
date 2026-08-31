@@ -1,0 +1,43 @@
+{
+  "source_file": "123_2008_ND-CP_82576.docx",
+  "document_id": "123/2008/NĐ-CP",
+  "title": "NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT THUẾ GIÁ TRỊ GIA TĂNG",
+  "document_type": "nghi_dinh",
+  "legal_rank": 2,
+  "issued_date": "2008-12-08",
+  "effective_date": "2009-01-01",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "158/2003/NĐ-CP",
+      "relation_types": [
+        "thay_the"
+      ],
+      "impact_scope": "whole_document",
+      "effective_date": "2009-01-01",
+      "status": "active"
+    },
+    {
+      "target_document_id": "148/2004/NĐ-CP",
+      "relation_types": [
+        "thay_the"
+      ],
+      "impact_scope": "whole_document",
+      "effective_date": "2009-01-01",
+      "status": "active"
+    },
+    {
+      "target_document_id": "156/2005/NĐ-CP",
+      "relation_types": [
+        "bai_bo"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2009-01-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [],
+  "embed_in_qdrant": true
+}

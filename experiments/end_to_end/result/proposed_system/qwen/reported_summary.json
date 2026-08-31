@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "configuration": "proposed_qwen",
+  "cases": 300,
+  "successful_cases": 296,
+  "metric_unit": "0_to_1",
+  "metrics": {
+    "fact_coverage": 0.846887,
+    "evidence_precision": 0.697713,
+    "temporal_accuracy": 0.903333,
+    "answer_correctness": 0.810167,
+    "groundedness": 0.882753
+  }
+}

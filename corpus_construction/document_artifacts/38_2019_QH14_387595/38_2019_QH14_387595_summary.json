@@ -1,0 +1,62 @@
+{
+  "source_file": "38_2019_QH14_387595.md",
+  "document_summary": "Văn bản: LUẬT QUẢN LÝ THUẾ. Số hiệu: 38/2019/QH14.",
+  "document_metadata": {
+    "source_file": "38_2019_QH14_387595.docx",
+    "document_id": "38/2019/QH14",
+    "title": "LUẬT QUẢN LÝ THUẾ",
+    "document_type": "luat",
+    "legal_rank": 3,
+    "issued_date": "2019-06-13",
+    "effective_date": "2020-07-01",
+    "expiration_date": null,
+    "status": "active",
+    "affects_documents": [
+      {
+        "target_document_id": "78/2006/QH11",
+        "relation_types": [
+          "bai_bo"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2020-07-01",
+        "status": "active"
+      },
+      {
+        "target_document_id": "88/2015/QH13",
+        "relation_types": [
+          "bo_sung"
+        ],
+        "impact_scope": "partial",
+        "effective_date": "2020-07-01",
+        "status": "active"
+      }
+    ],
+    "affected_by_documents": [],
+    "amendment_relations": [
+      {
+        "van_ban_sua": "38/2019/QH14",
+        "dieu_khoan_sua": "Điều 150",
+        "van_ban_bi_sua": "88/2015/QH13",
+        "target_location": "Điều 70a",
+        "target_level": "dieu",
+        "target_component": "all",
+        "dieu_khoan_bi_sua": [
+          "Điều 70a"
+        ],
+        "loai_thay_doi": "bo_sung",
+        "text_operation": null,
+        "anchor_text": null,
+        "operand_text": null,
+        "noi_dung_cu": null,
+        "noi_dung_moi": "Điều 70a. Cung cấp dịch vụ kế toán của tổ chức kinh doanh dịch vụ làm thủ tục về thuế\nTổ chức kinh doanh dịch vụ làm thủ tục về thuế được cung cấp dịch vụ kế toán cho doanh nghiệp siêu nhỏ khi có ít nhất một người có chứng chỉ kế toán viên.",
+        "replacement_text": "Điều 70a. Cung cấp dịch vụ kế toán của tổ chức kinh doanh dịch vụ làm thủ tục về thuế\nTổ chức kinh doanh dịch vụ làm thủ tục về thuế được cung cấp dịch vụ kế toán cho doanh nghiệp siêu nhỏ khi có ít nhất một người có chứng chỉ kế toán viên.",
+        "amendment_source_section": "## Điều 150. Bổ sung một điều vào Luật Kế toán số 88/2015/QH13\nBổ sung Điều 70a vào sau Điều 70 trong Chương IV như sau:\n“Điều 70a. Cung cấp dịch vụ kế toán của tổ chức kinh doanh dịch vụ làm thủ tục về thuế\nTổ chức kinh doanh dịch vụ làm thủ tục về thuế được cung cấp dịch vụ kế toán cho doanh nghiệp siêu nhỏ khi có ít nhất một người có chứng chỉ kế toán viên.”.",
+        "effective_date": "2020-07-01",
+        "can_cu_trich_doan": "## Điều 150. Bổ sung một điều vào Luật Kế toán số 88/2015/QH13",
+        "status": "active",
+        "operation_id": "e041711d839b45b3dad7cc50e1bdbabe75e0d482b6840f0d96ffe225e20d20a6"
+      }
+    ],
+    "embed_in_qdrant": true
+  }
+}

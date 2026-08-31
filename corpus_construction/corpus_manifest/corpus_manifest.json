@@ -1,0 +1,109 @@
+{
+  "09/2026/QH16": {
+    "include_locations": ["Điều 1", "Điều 2", "Điều 5"],
+    "embed_in_qdrant": false
+  },
+  "141/2026/NĐ-CP": {
+    "include_locations": ["Điều 1", "Điều 3", "Điều 4 > Khoản 1"],
+    "embed_in_qdrant": false
+  },
+  "245/2026/NĐ-CP": {
+    "include_locations": [
+      "Điều 1",
+      "Điều 2",
+      "Điều 3",
+      "Điều 4",
+      "Điều 5",
+      "Phụ lục I"
+    ],
+    "embed_in_qdrant": true
+  },
+  "31/2024/QH15": {
+    "include_locations": ["Điều 247", "Điều 252"],
+    "embed_in_qdrant": false
+  },
+  "26/2012/QH13": {
+    "include_locations": [],
+    "embed_in_qdrant": false
+  },
+  "31/2013/QH13": {
+    "include_locations": [],
+    "embed_in_qdrant": false
+  },
+  "21/2012/QH13": {
+    "include_locations": [],
+    "embed_in_qdrant": false
+  },
+  "71/2014/QH13": {
+    "include_locations": ["Điều 2", "Điều 3", "Điều 5", "Điều 6"],
+    "embed_in_qdrant": false
+  },
+  "106/2016/QH13": {
+    "include_locations": ["Điều 1", "Điều 3", "Điều 4"],
+    "embed_in_qdrant": false
+  },
+  "56/2024/QH15": {
+    "include_locations": ["Điều 6", "Điều 8", "Điều 10", "Điều 11"],
+    "embed_in_qdrant": false
+  },
+  "71/2025/QH15": {
+    "include_locations": ["Điều 49", "Điều 50", "Điều 51"],
+    "embed_in_qdrant": false
+  },
+  "93/2025/QH15": {
+    "include_locations": ["Điều 71 > Khoản 3", "Điều 72", "Điều 73"],
+    "embed_in_qdrant": false
+  },
+  "90/2025/QH15": {
+    "include_locations": ["Điều 4", "Điều 9"],
+    "embed_in_qdrant": false
+  },
+  "149/2025/QH15": {
+    "include_locations": [],
+    "embed_in_qdrant": false
+  },
+  "106/2010/NĐ-CP": {
+    "include_locations": [],
+    "embed_in_qdrant": false
+  },
+  "121/2011/NĐ-CP": {
+    "include_locations": [],
+    "embed_in_qdrant": false
+  },
+  "91/2014/NĐ-CP": {
+    "include_locations": ["Điều 2", "Điều 3", "Điều 4", "Điều 5"],
+    "embed_in_qdrant": false
+  },
+  "12/2015/NĐ-CP": {
+    "include_locations": ["Điều 2", "Điều 3", "Điều 5", "Điều 6"],
+    "embed_in_qdrant": false
+  },
+  "91/2022/NĐ-CP": {
+    "include_locations": [],
+    "embed_in_qdrant": false
+  },
+  "373/2025/NĐ-CP": {
+    "include_locations": ["Điều 1", "Điều 2", "Điều 3", "Điều 4", "Điều 5", "Điều 6", "Điều 7", "Điều 8", "Điều 9", "Điều 13"],
+    "embed_in_qdrant": false
+  },
+  "100/2016/NĐ-CP": {
+    "include_locations": ["Điều 1", "Điều 5"],
+    "embed_in_qdrant": false
+  },
+  "146/2017/NĐ-CP": {
+    "include_locations": ["Điều 1", "Điều 3", "Điều 4"],
+    "embed_in_qdrant": false
+  },
+  "49/2022/NĐ-CP": {
+    "include_locations": [],
+    "embed_in_qdrant": false
+  },
+  "359/2025/NĐ-CP": {
+    "include_locations": [],
+    "embed_in_qdrant": false
+  },
+  "144/2026/NĐ-CP": {
+    "include_locations": ["Điều 1", "Điều 2", "Điều 3", "Điều 4", "Điều 6"],
+    "embed_in_qdrant": false
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "source_file": "48_2024_QH15_556390.md",
+  "document_summary": "Văn bản: LUẬT THUẾ GIÁ TRỊ GIA TĂNG. Số hiệu: 48/2024/QH15.",
+  "document_metadata": {
+    "source_file": "48_2024_QH15_556390.docx",
+    "document_id": "48/2024/QH15",
+    "title": "LUẬT THUẾ GIÁ TRỊ GIA TĂNG",
+    "document_type": "luat",
+    "legal_rank": 3,
+    "issued_date": "2024-11-26",
+    "effective_date": "2025-07-01",
+    "expiration_date": null,
+    "status": "active",
+    "affects_documents": [
+      {
+        "target_document_id": "04/2007/QH12",
+        "relation_types": [
+          "sua_doi",
+          "bo_sung"
+        ],
+        "impact_scope": "partial",
+        "effective_date": "2026-01-01",
+        "status": "active"
+      },
+      {
+        "target_document_id": "13/2008/QH12",
+        "relation_types": [
+          "bai_bo"
+        ],
+        "impact_scope": "whole_document",
+        "effective_date": "2025-07-01",
+        "status": "active"
+      }
+    ],
+    "affected_by_documents": [],
+    "amendment_relations": [
+      {
+        "van_ban_sua": "48/2024/QH15",
+        "dieu_khoan_sua": "Điều 17",
+        "van_ban_bi_sua": "04/2007/QH12",
+        "target_location": "Điều 3 > Khoản 1",
+        "target_level": "khoan",
+        "target_component": "all",
+        "dieu_khoan_bi_sua": [
+          "Điều 3 > Khoản 1"
+        ],
+        "loai_thay_doi": "sua_doi",
+        "text_operation": null,
+        "anchor_text": null,
+        "operand_text": null,
+        "noi_dung_cu": null,
+        "noi_dung_moi": "1. Thu nhập từ kinh doanh, bao gồm:\na) Thu nhập từ hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ;\nb) Thu nhập từ hoạt động hành nghề độc lập của cá nhân có giấy phép hoặc chứng chỉ hành nghề theo quy định của pháp luật.\nThu nhập từ kinh doanh quy định tại khoản này không bao gồm thu nhập của hộ, cá nhân sản xuất, kinh doanh có doanh thu dưới mức quy định tại khoản 25 Điều 5 của Luật Thuế giá trị gia tăng.",
+        "replacement_text": "1. Thu nhập từ kinh doanh, bao gồm:\na) Thu nhập từ hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ;\nb) Thu nhập từ hoạt động hành nghề độc lập của cá nhân có giấy phép hoặc chứng chỉ hành nghề theo quy định của pháp luật.\nThu nhập từ kinh doanh quy định tại khoản này không bao gồm thu nhập của hộ, cá nhân sản xuất, kinh doanh có doanh thu dưới mức quy định tại khoản 25 Điều 5 của Luật Thuế giá trị gia tăng.",
+        "amendment_source_section": "## Điều 17. Sửa đổi, bổ sung khoản 1 Điều 3 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13 và Luật số 71/2014/QH13\n“1. Thu nhập từ kinh doanh, bao gồm:\na) Thu nhập từ hoạt động sản xuất, kinh doanh hàng hoá, dịch vụ;\nb) Thu nhập từ hoạt động hành nghề độc lập của cá nhân có giấy phép hoặc chứng chỉ hành nghề theo quy định của pháp luật.\nThu nhập từ kinh doanh quy định tại khoản này không bao gồm thu nhập của hộ, cá nhân sản xuất, kinh doanh có doanh thu dưới mức quy định tại khoản 25 Điều 5 của Luật Thuế giá trị gia tăng.”",
+        "effective_date": "2026-01-01",
+        "can_cu_trich_doan": "## Điều 17. Sửa đổi, bổ sung khoản 1 Điều 3 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 26/2012/QH13 và Luật số 71/2014/QH13",
+        "status": "active",
+        "operation_id": "54a5ea08fd11980c95454a9d71eaaf4bfeb5aee419a79ae524707dc37578c03c"
+      }
+    ],
+    "embed_in_qdrant": true
+  }
+}

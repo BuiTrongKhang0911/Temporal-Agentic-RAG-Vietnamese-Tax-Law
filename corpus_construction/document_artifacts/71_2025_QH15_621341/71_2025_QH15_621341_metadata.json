@@ -1,0 +1,49 @@
+{
+  "source_file": "71_2025_QH15_621341.docx",
+  "document_id": "71/2025/QH15",
+  "title": "LUẬT CÔNG NGHIỆP CÔNG NGHỆ SỐ",
+  "document_type": "luat",
+  "legal_rank": 3,
+  "issued_date": "2025-06-14",
+  "effective_date": "2026-01-01",
+  "expiration_date": null,
+  "status": "active",
+  "affects_documents": [
+    {
+      "target_document_id": "04/2007/QH12",
+      "relation_types": [
+        "bo_sung"
+      ],
+      "impact_scope": "partial",
+      "effective_date": "2026-01-01",
+      "status": "active"
+    }
+  ],
+  "affected_by_documents": [],
+  "amendment_relations": [
+    {
+      "van_ban_sua": "71/2025/QH15",
+      "dieu_khoan_sua": "Điều 49 > Khoản 3",
+      "van_ban_bi_sua": "04/2007/QH12",
+      "target_location": "Điều 4 > Khoản 17",
+      "target_level": "khoan",
+      "target_component": "all",
+      "dieu_khoan_bi_sua": [
+        "Điều 4 > Khoản 17"
+      ],
+      "loai_thay_doi": "bo_sung",
+      "text_operation": null,
+      "anchor_text": null,
+      "operand_text": null,
+      "noi_dung_cu": null,
+      "noi_dung_moi": "17. Các khoản thu nhập bao gồm tiền lương, tiền công của nhân lực công nghiệp công nghệ số chất lượng cao là các khoản thu nhập miễn thuế thu nhập cá nhân trong thời hạn 05 năm kể từ ngày ký hợp đồng đầu tiên với cơ quan, tổ chức, cá nhân Việt Nam thuộc các trường hợp sau:\na) Thu nhập từ dự án hoạt động công nghiệp công nghệ số trong khu công nghệ số tập trung;\nb) Thu nhập từ dự án nghiên cứu và phát triển, sản xuất sản phẩm công nghệ số trọng điểm, chip bán dẫn, hệ thống trí tuệ nhân tạo;\nc) Thu nhập từ các hoạt động đào tạo nhân lực công nghiệp công nghệ số.",
+      "replacement_text": "17. Các khoản thu nhập bao gồm tiền lương, tiền công của nhân lực công nghiệp công nghệ số chất lượng cao là các khoản thu nhập miễn thuế thu nhập cá nhân trong thời hạn 05 năm kể từ ngày ký hợp đồng đầu tiên với cơ quan, tổ chức, cá nhân Việt Nam thuộc các trường hợp sau:\na) Thu nhập từ dự án hoạt động công nghiệp công nghệ số trong khu công nghệ số tập trung;\nb) Thu nhập từ dự án nghiên cứu và phát triển, sản xuất sản phẩm công nghệ số trọng điểm, chip bán dẫn, hệ thống trí tuệ nhân tạo;\nc) Thu nhập từ các hoạt động đào tạo nhân lực công nghiệp công nghệ số.",
+      "amendment_source_section": "### Khoản 3. Bổ sung khoản 17 vào sau khoản 16 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 48/2024/QH15 và Luật số 56/2024/QH15 như sau:\n“17. Các khoản thu nhập bao gồm tiền lương, tiền công của nhân lực công nghiệp công nghệ số chất lượng cao là các khoản thu nhập miễn thuế thu nhập cá nhân trong thời hạn 05 năm kể từ ngày ký hợp đồng đầu tiên với cơ quan, tổ chức, cá nhân Việt Nam thuộc các trường hợp sau:\na) Thu nhập từ dự án hoạt động công nghiệp công nghệ số trong khu công nghệ số tập trung;\nb) Thu nhập từ dự án nghiên cứu và phát triển, sản xuất sản phẩm công nghệ số trọng điểm, chip bán dẫn, hệ thống trí tuệ nhân tạo;\nc) Thu nhập từ các hoạt động đào tạo nhân lực công nghiệp công nghệ số.”.",
+      "effective_date": "2026-01-01",
+      "can_cu_trich_doan": "### Khoản 3. Bổ sung khoản 17 vào sau khoản 16 Điều 4 của Luật Thuế thu nhập cá nhân số 04/2007/QH12 đã được sửa đổi, bổ sung theo Luật số 26/2012/QH13, Luật số 71/2014/QH13, Luật số 31/2024/QH15, Luật số 48/2024/QH15 và Luật số 56/2024/QH15 như sau:",
+      "status": "active",
+      "operation_id": "1f0a6574f19d7e165fadf9651880bfe6ac78065f6817b7ff8548c86c22386cec"
+    }
+  ],
+  "embed_in_qdrant": false
+}

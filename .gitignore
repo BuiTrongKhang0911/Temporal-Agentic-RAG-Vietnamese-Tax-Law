@@ -1,0 +1,53 @@
+# Secrets and local environment
+.env
+.env.local
+.env.*.local
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build and dependency outputs
+node_modules/
+bin/
+obj/
+build/
+dist/
+*.egg-info/
+
+# Runtime and generated files
+*.log
+*.tmp
+*.temp
+qdrant_storage/
+*.snapshot
+artifacts/
+experiments/**/result/**/latest_*
+experiments/end_to_end/result/rerun/
+
+# Large local archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
