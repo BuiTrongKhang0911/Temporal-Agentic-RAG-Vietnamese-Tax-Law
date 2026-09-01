@@ -52,7 +52,6 @@ class RAGQuestionAnswering:
         self.embedding_model = get_embedding_model(
             EMBEDDING_MODEL,
             device=EMBEDDING_DEVICE,
-            local_files_only=True,
         )
         
         # Load reranker model (BGE family for consistency)
@@ -60,7 +59,6 @@ class RAGQuestionAnswering:
         self.reranker = CrossEncoder(
             RERANKER_MODEL,
             device=RERANKER_DEVICE,
-            local_files_only=True,
         )
         self.reranker_batch_size = RERANKER_BATCH_SIZE
         

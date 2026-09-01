@@ -1,4 +1,4 @@
-"""Process-wide cache for local retrieval models shared by backend components."""
+"""Process-wide cache for retrieval models shared by backend components."""
 
 from __future__ import annotations
 
@@ -15,7 +15,6 @@ def get_embedding_model(
     model_name: str,
     *,
     device: str = "cpu",
-    local_files_only: bool = True,
 ) -> SentenceTransformer:
     """Return one shared embedding model per model/device pair."""
 
@@ -26,7 +25,6 @@ def get_embedding_model(
             model = SentenceTransformer(
                 model_name,
                 device=device,
-                local_files_only=local_files_only,
             )
             _EMBEDDING_MODELS[key] = model
     return model

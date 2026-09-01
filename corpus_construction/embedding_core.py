@@ -37,7 +37,6 @@ import time
 from config import (
     EMBEDDING_MODEL,
     EMBEDDING_DIMENSION,
-    HF_HUB_OFFLINE,
     CHUNK_SIZE,
     CHUNK_OVERLAP,
     OUTPUT_DIR,
@@ -53,16 +52,10 @@ class EmbeddingQdrantProcessor:
     def __init__(self):
         if not GOOGLE_API_KEY:
             raise ValueError("Thiếu GOOGLE_API_KEY trong file .env ở thư mục gốc")
-        if HF_HUB_OFFLINE:
-            os.environ["HF_HUB_OFFLINE"] = "1"
-            os.environ["TRANSFORMERS_OFFLINE"] = "1"
 
         # Load HuggingFace model - bge-m3 (multilingual, 8192 tokens)
         print(f"Loading embedding model: {EMBEDDING_MODEL}")
-        self.embedding_model = SentenceTransformer(
-            EMBEDDING_MODEL,
-            local_files_only=HF_HUB_OFFLINE,
-        )
+        self.embedding_model = SentenceTransformer(EMBEDDING_MODEL)
         
         # Get embedding dimension từ config
         self.embedding_dimension = EMBEDDING_DIMENSION

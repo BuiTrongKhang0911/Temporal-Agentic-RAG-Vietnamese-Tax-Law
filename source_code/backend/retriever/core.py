@@ -42,13 +42,11 @@ class RetrieverCore:
         self.embedding_model = get_embedding_model(
             EMBEDDING_MODEL,
             device=EMBEDDING_DEVICE,
-            local_files_only=True,
         )
         print(f"Loading reranker model: {RERANKER_MODEL} on {RERANKER_DEVICE}")
         self.reranker = CrossEncoder(
             RERANKER_MODEL,
             device=RERANKER_DEVICE,
-            local_files_only=True,
         )
         self.reranker_batch_size = RERANKER_BATCH_SIZE
 

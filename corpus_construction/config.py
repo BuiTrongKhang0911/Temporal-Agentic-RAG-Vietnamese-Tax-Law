@@ -1,4 +1,4 @@
-"""Self-contained configuration for the offline corpus pipeline."""
+"""Self-contained configuration for the corpus-construction pipeline."""
 
 from __future__ import annotations
 
@@ -34,12 +34,6 @@ SAC_TIER2_GEMINI_MODEL = os.getenv(
 
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "BAAI/bge-m3")
 EMBEDDING_DIMENSION = 1024
-HF_HUB_OFFLINE = os.getenv("CORPUS_HF_OFFLINE", "false").strip().lower() in {
-    "1",
-    "true",
-    "yes",
-    "on",
-}
 CHUNK_SIZE = 500
 CHUNK_OVERLAP = 100
 CHUNK_SIZES_TO_TEST = [500, 800, 1000]

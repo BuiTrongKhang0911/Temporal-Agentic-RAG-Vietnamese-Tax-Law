@@ -389,14 +389,12 @@ class TaxLawClarifier:
     def _build_dictionary_dense_index(self, documents: list[str]) -> None:
         model_name = DEFAULT_DICTIONARY_BGE_MODEL
         device = os.getenv("CLARIFIER_DICTIONARY_BGE_DEVICE", "cpu").strip()
-        local_only = _env_bool("CLARIFIER_DICTIONARY_BGE_LOCAL_ONLY", True)
         model_key = (model_name, device)
         model = self._embedding_models.get(model_key)
         if model is None:
             model = get_embedding_model(
                 model_name,
                 device=device,
-                local_files_only=local_only,
             )
             self._embedding_models[model_key] = model
         self._dictionary_embedding_model = model
