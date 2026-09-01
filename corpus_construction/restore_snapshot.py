@@ -3,7 +3,9 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 from pathlib import Path
+import re
 
 import requests
 
@@ -12,6 +14,25 @@ from config import QDRANT_COLLECTION, QDRANT_HOST, QDRANT_PORT
 
 HERE = Path(__file__).resolve().parent
 SNAPSHOT_DIR = HERE / "qdrant_snapshot"
+SNAPSHOT_INFO = SNAPSHOT_DIR / "Snapshot-GoogleDrive-Link.txt"
+
+
+def expected_sha256() -> str | None:
+    if not SNAPSHOT_INFO.is_file():
+        return None
+    match = re.search(
+        r"SHA-256:\s*([0-9a-fA-F]{64})",
+        SNAPSHOT_INFO.read_text(encoding="utf-8"),
+    )
+    return match.group(1).lower() if match else None
+
+
+def sha256_file(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as file:
+        for block in iter(lambda: file.read(1024 * 1024), b""):
+            digest.update(block)
+    return digest.hexdigest()
 
 
 def main() -> int:
@@ -39,6 +60,16 @@ def main() -> int:
     snapshot = snapshot.resolve()
     if not snapshot.is_file():
         raise FileNotFoundError(snapshot)
+
+    expected_hash = expected_sha256()
+    if expected_hash:
+        actual_hash = sha256_file(snapshot)
+        if actual_hash != expected_hash:
+            raise RuntimeError(
+                "Snapshot SHA-256 mismatch: "
+                f"expected={expected_hash}, actual={actual_hash}"
+            )
+        print(f"Snapshot SHA-256 verified: {actual_hash}")
 
     base_url = f"http://{args.host}:{args.port}"
     collection_url = f"{base_url}/collections/{args.collection}"

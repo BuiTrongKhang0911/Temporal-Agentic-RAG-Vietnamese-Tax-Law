@@ -29,7 +29,7 @@ API URL configured in .env.
 
 - Windows 10/11 or another operating system capable of running Python 3.12.
 - Python 3.12.
-- Qdrant Server v1.18.2 available at localhost:6333 by default. Use this exact
+- Qdrant Server v1.19.0 available at localhost:6333 by default. Use this exact
   server version when restoring the supplied snapshot to avoid snapshot
   compatibility errors.
 - A valid Google Gemini API key.
@@ -87,13 +87,13 @@ Do not commit .env because it contains the API key.
 
 Recommended method: restore the ready-built Qdrant snapshot.
 
-The supplied snapshot was created with Qdrant Server v1.18.2. Start Qdrant
+The supplied snapshot was created with Qdrant Server v1.19.0. Start Qdrant
 with the same version before restoring it. For Docker, the corresponding image
-is qdrant/qdrant:v1.18.2.
+is qdrant/qdrant:v1.19.0.
 
 To start the required Qdrant version with Docker:
 
-    docker run -d --name tax-law-qdrant -p 6333:6333 -p 6334:6334 -v "${PWD}/qdrant_storage:/qdrant/storage" qdrant/qdrant:v1.18.2
+    docker run -d --name tax-law-qdrant -p 6333:6333 -p 6334:6334 -v "${PWD}/qdrant_storage:/qdrant/storage" qdrant/qdrant:v1.19.0
 
 1. Open corpus_construction/qdrant_snapshot/Snapshot-GoogleDrive-Link.txt.
 2. Download the snapshot and place it in corpus_construction/qdrant_snapshot.
