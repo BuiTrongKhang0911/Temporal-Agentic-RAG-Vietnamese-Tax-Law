@@ -1893,7 +1893,6 @@ def main() -> None:
         document_dir.mkdir(parents=True, exist_ok=True)
         output_path = document_dir / f"{input_path.stem}.md"
         converter.process_file(str(input_path), str(output_path))
-        converter.sync_inverse_relationships(args.output_dir)
     else:
         converter.process_directory(args.input_dir, args.output_dir)
 
