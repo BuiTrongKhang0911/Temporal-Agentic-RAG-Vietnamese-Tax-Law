@@ -1398,14 +1398,29 @@ class VersionedEmbeddingQdrantProcessor(EmbeddingQdrantProcessor):
         return updated_points
 
 
-def load_sources() -> Tuple[List[Tuple[str, str, str]], List[Dict], List[Dict]]:
+def load_sources(
+    output_dir: str = OUTPUT_DIR,
+    file_name: Optional[str] = None,
+) -> Tuple[List[Tuple[str, str, str]], List[Dict], List[Dict]]:
     documents = []
     operations = []
     effects = []
-    if not os.path.exists(OUTPUT_DIR):
+    root = Path(output_dir)
+    if not root.exists():
         return documents, operations, effects
 
-    for path in sorted(Path(OUTPUT_DIR).rglob("*.md")):
+    if file_name:
+        stem = Path(file_name).stem
+        candidates = [root / stem / f"{stem}.md", root / f"{stem}.md"]
+        markdown_paths = [path for path in candidates if path.is_file()]
+        if not markdown_paths:
+            raise FileNotFoundError(
+                f"Không tìm thấy output Step 1 cho văn bản: {stem}"
+            )
+    else:
+        markdown_paths = sorted(root.rglob("*.md"))
+
+    for path in markdown_paths:
         filename = path.name
         if filename.endswith("_full.md"):
             continue
@@ -1452,9 +1467,14 @@ def main() -> None:
         action="store_true",
         help="Validate and count Step 1-2 artifacts without loading models or writing to Qdrant.",
     )
+    parser.add_argument(
+        "--file",
+        help="Tên văn bản đã xử lý ở Step 1-2, không cần đuôi file.",
+    )
+    parser.add_argument("--output-dir", default=OUTPUT_DIR)
     args = parser.parse_args()
 
-    documents, operations, effects = load_sources()
+    documents, operations, effects = load_sources(args.output_dir, args.file)
 
     print(f"Văn bản nền sẵn sàng: {len(documents)}")
     print(f"Version operations: {len(operations)}")

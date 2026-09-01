@@ -3,6 +3,8 @@ Bước 2: Generate Document Summary (SAC Tier 1)
 - Dùng LLM (Gemini Flash) tạo "document fingerprint"
 - Lưu summary để inject vào chunks ở bước 3
 """
+import argparse
+
 import google.generativeai as genai
 import json
 import os
@@ -166,70 +168,74 @@ Chỉ xuất ra phần tóm tắt:
         print(f"  Saved: {output_path}")
 
 
-if __name__ == "__main__":
-    generator = SACGenerator()
-    
-    # Tìm tất cả markdown files
-    markdown_files = []
-    if os.path.exists(OUTPUT_DIR):
-        for path in sorted(Path(OUTPUT_DIR).rglob('*.md')):
-            filename = path.name
-            if not filename.endswith('_full.md'):
-                markdown_path = str(path)
-                metadata_path = markdown_path.replace('.md', '_metadata.json')
-                if not os.path.exists(metadata_path):
-                    print(f"⚠ Bỏ qua {filename}: thiếu metadata.")
-                    continue
-                with open(metadata_path, 'r', encoding='utf-8') as f:
-                    metadata = json.load(f)
-                if not metadata.get("embed_in_qdrant", True):
-                    print(f"Bỏ qua SAC: {filename} (embed_in_qdrant=false)")
-                    continue
-                markdown_files.append(markdown_path)
-    
-    if not markdown_files:
-        print(f"⚠ Không tìm thấy file markdown nào trong {OUTPUT_DIR}")
-        print(f"Hãy chạy step1_markdown_hierarchy.py trước")
+def collect_markdown_files(output_dir: str, file_name: str | None) -> list[str]:
+    root = Path(output_dir)
+    if file_name:
+        stem = Path(file_name).stem
+        candidates = [root / stem / f"{stem}.md", root / f"{stem}.md"]
+        markdown_paths = [path for path in candidates if path.is_file()]
+        if not markdown_paths:
+            raise FileNotFoundError(
+                f"Không tìm thấy output Step 1 cho văn bản: {stem}"
+            )
     else:
-        print(f"{'='*60}")
-        print(f"SAC Generation - Step 2")
-        print(f"Tìm thấy {len(markdown_files)} file markdown")
-        print(f"{'='*60}")
-        
-        for md_file in markdown_files:
-            summary_data = generator.process_markdown_file(md_file)
-            
-            # Lưu summary
-            output_path = md_file.replace('.md', '_summary.json')
-            generator.save_summary(summary_data, output_path)
-            
-            print()  # Dòng trống để dễ đọc
-        
-        print(f"{'='*60}")
-        print(f"Hoàn thành! Summary files đã được tạo trong {OUTPUT_DIR}")
-        print(f"{'='*60}")
-        
-        # In ra tất cả summaries để review
-        print(f"\n{'='*60}")
-        print(f"📝 TÓM TẮT CÁC VĂN BẢN")
-        print(f"{'='*60}\n")
-        
-        for md_file in sorted(markdown_files):
-            summary_file = md_file.replace('.md', '_summary.json')
-            if os.path.exists(summary_file):
-                with open(summary_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                
-                source = data.get('source_file', 'N/A')
-                summary = data.get('document_summary', 'N/A')
-                metadata = data.get('document_metadata', {})
-                
-                doc_id = metadata.get('document_id', 'N/A')
-                title = metadata.get('title', 'N/A')
-                
-                print(f"📄 {source}")
-                print(f"   ID: {doc_id}")
-                print(f"   Title: {title}")
-                print(f"   Summary: {summary}")
-                print()
+        markdown_paths = sorted(
+            path for path in root.rglob("*.md")
+            if not path.name.endswith("_full.md")
+        ) if root.exists() else []
+
+    selected = []
+    for path in markdown_paths:
+        metadata_path = path.with_name(f"{path.stem}_metadata.json")
+        if not metadata_path.is_file():
+            print(f"⚠ Bỏ qua {path.name}: thiếu metadata.")
+            continue
+        with metadata_path.open("r", encoding="utf-8") as file:
+            metadata = json.load(file)
+        if not metadata.get("embed_in_qdrant", True):
+            print(f"Bỏ qua SAC: {path.name} (embed_in_qdrant=false)")
+            continue
+        selected.append(str(path))
+    return selected
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Generate SAC Tier 1 summaries.")
+    parser.add_argument(
+        "--file",
+        help="Tên văn bản đã xử lý ở Step 1, không cần đuôi file.",
+    )
+    parser.add_argument("--output-dir", default=OUTPUT_DIR)
+    args = parser.parse_args()
+
+    markdown_files = collect_markdown_files(args.output_dir, args.file)
+    if not markdown_files:
+        if args.file:
+            print(f"Không cần tạo SAC Tier 1 cho {Path(args.file).stem}.")
+        else:
+            print(f"⚠ Không tìm thấy Markdown cần tạo SAC trong {args.output_dir}")
+            print("Hãy chạy step1_markdown_hierarchy.py trước")
+        return
+
+    generator = SACGenerator()
+    print(f"{'='*60}")
+    print("SAC Generation - Step 2")
+    print(f"Tìm thấy {len(markdown_files)} file markdown")
+    print(f"{'='*60}")
+
+    for markdown_file in markdown_files:
+        summary_data = generator.process_markdown_file(markdown_file)
+        summary_path = str(Path(markdown_file).with_name(
+            f"{Path(markdown_file).stem}_summary.json"
+        ))
+        generator.save_summary(summary_data, summary_path)
+        print()
+
+    print(f"{'='*60}")
+    print(f"Hoàn thành! Summary files đã được tạo trong {args.output_dir}")
+    print(f"{'='*60}")
+
+
+if __name__ == "__main__":
+    main()
 

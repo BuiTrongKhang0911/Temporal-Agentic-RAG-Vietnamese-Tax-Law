@@ -48,8 +48,9 @@ QDRANT_HOST = os.getenv("QDRANT_HOST", "localhost")
 QDRANT_PORT = int(os.getenv("QDRANT_PORT", "6333"))
 QDRANT_COLLECTION = os.getenv("QDRANT_COLLECTION", "legal_documents")
 
-INPUT_DIR = str(CORPUS_DIR / "Documents")
-OUTPUT_DIR = str(CORPUS_DIR / "document_artifacts")
+INPUT_DIR = str(CORPUS_DIR / "documents")
+OUTPUT_DIR = str(CORPUS_DIR / "output")
+DOCUMENT_ARTIFACTS_DIR = str(CORPUS_DIR / "document_artifacts")
 CHUNKS_DIR = str(CORPUS_DIR / "chunks")
 CORPUS_MANIFEST_PATH = str(
     CORPUS_DIR / "corpus_manifest" / "corpus_manifest.json"

@@ -1,6 +1,6 @@
 {
   "source_file": "100_2008_ND-CP_70170.md",
-  "document_summary": "[100/2008/NĐ-CP | Hiệu lực: 2009-01-01] Nghị định quy định chi tiết Luật Thuế thu nhập cá nhân hướng dẫn cụ thể điều kiện cá nhân cư trú (183 ngày), mức giảm trừ gia cảnh (48 triệu/năm), biểu thuế lũy tiến 7 bậc và thủ tục khai thuế, hoàn thuế.",
+  "document_summary": "[100/2008/NĐ-CP | Hiệu lực: 2009-01-01] Nghị định quy định chi tiết Luật Thuế thu nhập cá nhân xác định cá nhân cư trú là người có mặt tại Việt Nam từ 183 ngày trở lên; thiết lập biểu thuế lũy tiến 7 bậc (5-35%) và mức giảm trừ gia cảnh cụ thể.",
   "document_metadata": {
     "source_file": "100_2008_ND-CP_70170.docx",
     "document_id": "100/2008/NĐ-CP",
@@ -11,7 +11,17 @@
     "effective_date": "2009-01-01",
     "expiration_date": null,
     "status": "active",
-    "affects_documents": [],
+    "affects_documents": [
+      {
+        "target_document_id": "85/2007/NĐ-CP",
+        "relation_types": [
+          "thay_the"
+        ],
+        "impact_scope": "partial",
+        "effective_date": "2009-01-01",
+        "status": "active"
+      }
+    ],
     "affected_by_documents": [],
     "amendment_relations": [],
     "embed_in_qdrant": true

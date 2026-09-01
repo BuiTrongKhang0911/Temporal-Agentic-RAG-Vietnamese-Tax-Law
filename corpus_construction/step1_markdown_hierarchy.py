@@ -1854,7 +1854,13 @@ Chỉ trả về JSON object, không giải thích."""
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Tiền xử lý văn bản pháp luật theo thứ tự thời gian.")
-    parser.add_argument("--file", help="Chỉ xử lý một file DOCX.")
+    parser.add_argument(
+        "--file",
+        help=(
+            "Tên văn bản trong documents, có thể bỏ đuôi .docx "
+            "(ví dụ: 04_2007_QH12_59652)."
+        ),
+    )
     parser.add_argument("--input-dir", default=INPUT_DIR)
     parser.add_argument("--output-dir", default=OUTPUT_DIR)
     parser.add_argument("--manifest", default=CORPUS_MANIFEST_PATH)
@@ -1877,6 +1883,12 @@ def main() -> None:
     os.makedirs(args.output_dir, exist_ok=True)
     if args.file:
         input_path = Path(args.file)
+        if input_path.suffix.lower() != ".docx":
+            input_path = Path(args.input_dir) / f"{input_path.name}.docx"
+        elif not input_path.is_absolute() and not input_path.exists():
+            input_path = Path(args.input_dir) / input_path.name
+        if not input_path.is_file():
+            raise FileNotFoundError(f"Không tìm thấy văn bản: {input_path}")
         document_dir = Path(args.output_dir) / input_path.stem
         document_dir.mkdir(parents=True, exist_ok=True)
         output_path = document_dir / f"{input_path.stem}.md"

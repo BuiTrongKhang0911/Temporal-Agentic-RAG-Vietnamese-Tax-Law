@@ -91,6 +91,10 @@ The supplied snapshot was created with Qdrant Server v1.18.2. Start Qdrant
 with the same version before restoring it. For Docker, the corresponding image
 is qdrant/qdrant:v1.18.2.
 
+To start the required Qdrant version with Docker:
+
+    docker run -d --name tax-law-qdrant -p 6333:6333 -p 6334:6334 -v "${PWD}/qdrant_storage:/qdrant/storage" qdrant/qdrant:v1.18.2
+
 1. Open corpus_construction/qdrant_snapshot/Snapshot-GoogleDrive-Link.txt.
 2. Download the snapshot and place it in corpus_construction/qdrant_snapshot.
 3. Start Qdrant.
@@ -105,18 +109,34 @@ legal_documents collection:
 
     python corpus_construction/restore_snapshot.py --force
 
-To validate the supplied artifacts without loading models or writing Qdrant:
+The files in corpus_construction/document_artifacts are the frozen outputs
+supplied with this repository. The normal Step 1-3 commands do not modify this
+directory. To validate these supplied artifacts without loading models or
+writing Qdrant:
 
-    python corpus_construction/step3_embedding_qdrant_versioned.py --validate-only
+    python corpus_construction/step3_embedding_qdrant_versioned.py --output-dir corpus_construction/document_artifacts --validate-only
 
-To rebuild the corpus from the source documents:
+To reproduce corpus construction one document at a time, use the DOCX base
+name for all three steps. For example:
 
-    python corpus_construction/step1_markdown_hierarchy.py
-    python corpus_construction/step2_sac_generation.py
-    python corpus_construction/step3_embedding_qdrant_versioned.py
+    python corpus_construction/step1_markdown_hierarchy.py --file 04_2007_QH12_59652
+    python corpus_construction/step2_sac_generation.py --file 04_2007_QH12_59652
+    python corpus_construction/step3_embedding_qdrant_versioned.py --file 04_2007_QH12_59652
+
+Step 1 reads corpus_construction/documents/<name>.docx. Step 1 and Step 2
+write newly generated files only to corpus_construction/output/<name>. Step 3
+reads that same output directory and writes the resulting points to Qdrant.
+Repeat the three commands for the remaining documents in chronological order.
+Running a step without --file retains the optional batch behavior.
 
 The normal Step 3 command writes to QDRANT_COLLECTION. For a test ingestion,
-set QDRANT_COLLECTION to a separate collection such as legal_documents_test.
+set QDRANT_COLLECTION to a separate collection before Step 3. In PowerShell:
+
+    $env:QDRANT_COLLECTION="legal_documents_test"
+
+The value applies to the current terminal session. The submitted
+document_artifacts directory and the legal_documents collection are therefore
+left unchanged during a test reproduction.
 
 5. RUNNING THE PRODUCTION APPLICATION
 -------------------------------------
