@@ -8,7 +8,7 @@ import sys
 import time
 from datetime import date
 from pathlib import Path
-from typing import Any
+from typing import Any, Mapping
 
 from dotenv import load_dotenv
 
@@ -52,6 +52,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--gold", type=Path, default=DEFAULT_GOLD)
     parser.add_argument("--responses", type=Path, default=DEFAULT_RESPONSES)
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument(
+        "--configuration",
+        default="",
+        help="Optional configuration name written to summary.json.",
+    )
     parser.add_argument("--start", type=int, default=1)
     parser.add_argument("--end", type=int)
     parser.add_argument("--limit", type=int)
@@ -83,6 +88,20 @@ def required_facts(plan: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return facts
 
 
+def execution_error_steps(result: Mapping[str, Any]) -> list[int]:
+    """Return workflow steps that failed because of an execution error."""
+
+    failures: list[int] = []
+    for index, step in enumerate(result.get("step_results") or [], 1):
+        if not isinstance(step, Mapping):
+            continue
+        status = str(step.get("final_status") or "").strip().lower()
+        error = str(step.get("error") or "").strip()
+        if status == "error" or error:
+            failures.append(int(step.get("step_number") or index))
+    return failures
+
+
 def main() -> int:
     args = parse_args()
     os.environ["SUBMISSION_RUNTIME_PROFILE"] = args.system
@@ -109,6 +128,7 @@ def main() -> int:
         selected = selected[: args.limit]
 
     output_dir = args.output_dir / args.system
+    configuration = args.configuration or f"proposed_{args.system}"
     outputs = (
         load_keyed_jsonl(output_dir / "outputs.jsonl")
         if args.resume
@@ -139,7 +159,11 @@ def main() -> int:
     for position, case in enumerate(selected, 1):
         case_id = str(case["case_id"])
         output = outputs.get(case_id)
-        if args.resume and output and output.get("inference_status") == "ok":
+        if (
+            args.resume
+            and output
+            and output.get("inference_status") == "ok"
+        ):
             print(f"[{position}/{len(selected)}] {case_id}: inference cached")
         else:
             started = time.perf_counter()
@@ -177,7 +201,15 @@ def main() -> int:
                             normalized_query,
                             verbose=not args.quiet,
                         )
-                    status = "ok"
+                    failed_steps = execution_error_steps(result)
+                    if failed_steps:
+                        status = "error"
+                        error = (
+                            "Workflow returned execution errors in steps: "
+                            + ", ".join(str(step) for step in failed_steps)
+                        )
+                    else:
+                        status = "ok"
             except Exception as exc:
                 error = f"{type(exc).__name__}: {exc}"
 
@@ -206,7 +238,7 @@ def main() -> int:
                 output_dir,
                 outputs,
                 scores,
-                configuration=f"proposed_{args.system}",
+                configuration=configuration,
             )
 
         if args.resume and scores.get(case_id, {}).get("judge_status") == "ok":
@@ -249,7 +281,7 @@ def main() -> int:
             output_dir,
             outputs,
             scores,
-            configuration=f"proposed_{args.system}",
+            configuration=configuration,
         )
         print(f"[{position}/{len(selected)}] {case_id}: {row['judge_status']}")
 

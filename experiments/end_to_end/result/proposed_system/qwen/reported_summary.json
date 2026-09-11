@@ -7,7 +7,8 @@
   "metrics": {
     "fact_coverage": 0.846887,
     "evidence_precision": 0.697713,
-    "temporal_accuracy": 0.903333,
+    "temporal_accuracy": 0.943333,
+    "temporal_evidence_precision": 0.927325,
     "answer_correctness": 0.810167,
     "groundedness": 0.882753
   }

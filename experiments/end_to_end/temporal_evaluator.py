@@ -76,6 +76,8 @@ def _overlaps(left: tuple[date, date], right: tuple[date, date]) -> bool:
 class TemporalEvaluator:
     """Audit evidence intervals and judge the temporal answer conclusion."""
 
+    RUBRIC_VERSION = "temporal_only_v2"
+
     def __init__(
         self,
         *,
@@ -145,9 +147,26 @@ class TemporalEvaluator:
                 }
             )
 
-        prompt = f"""You are judging only temporal correctness in Vietnamese legal QA.
+        prompt = f"""You are judging ONLY TEMPORAL CORRECTNESS in Vietnamese legal QA.
 Use only the supplied expected scope, reference answer, actual answer, and
 evidence validity metadata. Do not use memorized legal knowledge.
+
+TEMPORAL CORRECTNESS means only:
+1. The answer applies a legal version valid for the requested date or period.
+2. The answer assigns old and new rules to the correct periods.
+3. Every requested temporal branch is addressed.
+
+STRICT EXCLUSIONS:
+- Do NOT penalize arithmetic, tax amount, tax-rate calculation, wording, style,
+  citation formatting, or missing non-temporal legal details.
+- Do NOT penalize an otherwise wrong substantive conclusion when the answer
+  nevertheless uses the correct legal period/version. Those errors belong to
+  Answer Correctness, not Temporal Accuracy.
+- A wrong number or incomplete fact is temporal only when it is explicitly
+  caused by applying a rule from the wrong legal period/version.
+- Irrelevant evidence or evidence from another period does not by itself make
+  the answer temporally wrong if the answer applies the requested period and
+  does not rely on that wrong-period evidence.
 
 CURRENT AS-OF DATE: {self.as_of.isoformat()}
 QUESTION: {case.get('query', '')}
@@ -160,29 +179,28 @@ ACTUAL ANSWER:
 EVIDENCE AUDIT:
 {json.dumps(evidence_audit, ensure_ascii=False, indent=2)}
 
-Score temporal_answer_accuracy from 0 to 10. A score of 10 requires the legal
-version and conclusion to be correct for every requested period. A score of 5
-means the general direction is correct but one important period is absent. A
-score of 0 means the answer applies the wrong legal period or reverses the
-old/new rule. Return JSON only:
+Score temporal_answer_accuracy using only this rubric:
+- 10: correct requested period/version assignment for every temporal branch.
+  Give 10 even if there are non-temporal calculation or completeness errors.
+- 5: one requested temporal branch is missing, or the answer is too vague to
+  determine which period/version it applies.
+- 0: explicitly applies a rule outside its valid period, uses the wrong legal
+  version, or reverses the old/new temporal assignment.
+
+ANCHOR EXAMPLES:
+- Correct current version but wrong arithmetic result: score 10.
+- Requested current law but answer applies a superseded rule: score 0.
+- Two dates requested but only one date is addressed: score 5.
+
+The reason must identify only a temporal issue. If the score is 10, briefly
+state that non-temporal correctness is outside this evaluation. Return JSON only:
 {{"temporal_answer_accuracy":0,"uses_wrong_legal_version":false,
-"missing_temporal_branch":false,"reason":"short reason"}}"""
+"missing_temporal_branch":false,"temporal_error_type":"none|wrong_version|wrong_period|reversed_old_new|missing_branch|ambiguous_period",
+"reason":"short temporal-only reason"}}"""
         judged = self._call(prompt)
         score = max(
             0.0,
             min(1.0, float(judged.get("temporal_answer_accuracy") or 0) / 10),
-        )
-        branch_coverage = (
-            sum(
-                any(
-                    _overlaps(_evidence_interval(evidence), expected)
-                    for evidence in evidences
-                )
-                for expected in intervals
-            )
-            / len(intervals)
-            if intervals
-            else 0.0
         )
         evidence_precision = (
             sum(item["matches_expected_scope"] for item in evidence_audit)
@@ -193,10 +211,10 @@ old/new rule. Return JSON only:
         return {
             "temporal_accuracy": round(score, 6),
             "temporal_evidence_precision": round(evidence_precision, 6),
-            "temporal_branch_coverage": round(branch_coverage, 6),
             "temporal_reason": str(judged.get("reason") or ""),
             "temporal_judge_detail": judged,
             "temporal_evidence_audit": evidence_audit,
             "temporal_judge_model": self.model_name,
+            "temporal_rubric_version": self.RUBRIC_VERSION,
             "as_of": self.as_of.isoformat(),
         }

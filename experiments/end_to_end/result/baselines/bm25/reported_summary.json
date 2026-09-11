@@ -8,6 +8,7 @@
     "fact_coverage": 0.60983,
     "evidence_precision": 0.276667,
     "temporal_accuracy": 0.675,
+    "temporal_evidence_precision": 0.470667,
     "answer_correctness": 0.679333,
     "groundedness": 0.843697
   }

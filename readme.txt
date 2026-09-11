@@ -57,6 +57,7 @@ defaults:
     E2E_PROPOSED_GEMINI_MODEL=models/gemini-3.1-flash-lite
     E2E_BASELINE_GEMINI_MODEL=models/gemini-3.1-flash-lite
     E2E_JUDGE_GEMINI_MODEL=models/gemini-3.5-flash-lite
+    E2E_LLM_CALL_DELAY_SECONDS=5
     CORPUS_ANALYSIS_GEMINI_MODEL=models/gemini-3.1-flash-lite
     SAC_TIER1_GEMINI_MODEL=models/gemini-3.1-flash-lite
     SAC_TIER2_GEMINI_MODEL=models/gemini-3.1-flash-lite
@@ -179,16 +180,22 @@ Three-case smoke tests:
 
     python -m experiments.end_to_end.run_standard_baselines --limit 3
     python -m experiments.end_to_end.run_proposed_system --system gemini --limit 3
+    python -m experiments.end_to_end.run_without_temporal_filtering --system gemini --limit 3
 
 Full 300-question runs:
 
     python -m experiments.end_to_end.run_standard_baselines
     python -m experiments.end_to_end.run_proposed_system --system gemini
+    python -m experiments.end_to_end.run_without_temporal_filtering --system gemini
 
 Each end-to-end runner performs inference, LLM judging, temporal evaluation,
 per-case scoring, and summary aggregation. Rerun outputs are written under
 experiments/end_to_end/result/rerun. The reported_* files contain the results
-used in the thesis.
+used in the thesis. Experiment runners read the pause between Gemini calls from
+E2E_LLM_CALL_DELAY_SECONDS in .env; --call-delay is only needed to override it
+for a specific run. The without-temporal-filtering runner executes the same
+proposed workflow and judges while making every stored legal version eligible
+during retrieval.
 
 The optional Qwen reproduction requires a running Qwen 3.5 27B Ollama service
 on an external GPU platform. Expose that service through ngrok and configure

@@ -13,6 +13,7 @@ METRICS = (
     "fact_coverage",
     "evidence_precision",
     "temporal_accuracy",
+    "temporal_evidence_precision",
     "answer_correctness",
     "groundedness",
 )

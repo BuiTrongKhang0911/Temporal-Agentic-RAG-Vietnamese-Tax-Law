@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "configuration": "proposed_without_temporal_filtering",
+  "cases": 300,
+  "successful_cases": 300,
+  "judged_cases": 300,
+  "metric_unit": "0_to_1",
+  "metrics": {
+    "fact_coverage": 0.816278,
+    "evidence_precision": 0.660832,
+    "temporal_accuracy": 0.891667,
+    "temporal_evidence_precision": 0.762472,
+    "answer_correctness": 0.861667,
+    "groundedness": 0.887288
+  }
+}
