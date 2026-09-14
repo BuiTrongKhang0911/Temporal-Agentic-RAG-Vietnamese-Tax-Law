@@ -8,9 +8,10 @@
   "metrics": {
     "fact_coverage": 0.816278,
     "evidence_precision": 0.660832,
-    "temporal_accuracy": 0.891667,
+    "temporal_accuracy": 0.905,
     "temporal_evidence_precision": 0.762472,
     "answer_correctness": 0.861667,
     "groundedness": 0.887288
-  }
+  },
+  "temporal_rubric_version": "temporal_only_v2"
 }
